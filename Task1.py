@@ -145,7 +145,7 @@ if __name__ == "__main__":
 
 #country, region, city, postcode, road, and road number 
 
-# poate merg aflate si dupa ip adress, posibil si road number -- merge dar contra-cost
+# poate merg aflate si dupa ip adress, posibil si road number -- edit:-- merge dar contra cost
 
 # fac regex dupa postcode i guess
 
