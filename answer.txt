@@ -1,0 +1,1086 @@
+ http://savagecbd.com had a BaseException as Cannot connect to host savagecbd.com:80 ssl:default [getaddrinfo failed]
+ http://csccpas.com had a BaseException as Cannot connect to host csccpas.com:80 ssl:default [getaddrinfo failed]
+ http://ageinplaceofnewengland.com had a BaseException as Cannot connect to host ageinplaceofnewengland.com:80 ssl:default [getaddrinfo failed]
+ http://pure111.com had a BaseException as Cannot connect to host pure111.com:80 ssl:default [getaddrinfo failed]
+ http://bellastonecare.com had a BaseException as Cannot connect to host bellastonecare.com:80 ssl:default [getaddrinfo failed]
+ http://dabba4u.com had a BaseException as Cannot connect to host dabba4u.com:80 ssl:default [getaddrinfo failed]
+ http://scottklareichdds.com had a BaseException as Cannot connect to host scottklareichdds.com:80 ssl:default [getaddrinfo failed]
+ http://nemesisinteractive.com had a BaseException as Cannot connect to host nemesisinteractive.com:80 ssl:default [getaddrinfo failed]
+ http://sacredbrewing.com had a BaseException as Cannot connect to host sacredbrewing.com:80 ssl:default [getaddrinfo failed]      
+ http://hodgsonsinc.com had a BaseException as Cannot connect to host hodgsonsinc.com:80 ssl:default [getaddrinfo failed]
+ http://suresigngraphics.com had a BaseException as Cannot connect to host suresigngraphics.com:80 ssl:default [getaddrinfo failed]
+ http://watershedmaterials.com had a BaseException as Cannot connect to host watershedmaterials.com:80 ssl:default [getaddrinfo failed]
+ http://excellandscapemgmt.com had a BaseException as Cannot connect to host excellandscapemgmt.com:80 ssl:default [getaddrinfo failed]
+ http://masterstch.com had a BaseException as Cannot connect to host masterstch.com:80 ssl:default [getaddrinfo failed]
+ http://aurasalonnashville.com had a BaseException as Cannot connect to host aurasalonnashville.com:80 ssl:default [getaddrinfo failed]
+ http://c-s-stables.com had a BaseException as 'utf-8' codec can't decode byte 0xa9 in position 4757: invalid start byte
+ http://thewokdallastx.com had a BaseException as Cannot connect to host thewokdallastx.com:80 ssl:default [getaddrinfo failed]
+ http://petiteflowerssanantonio.com had a BaseException as Cannot connect to host petiteflowerssanantonio.com:80 ssl:default [getaddrinfo failed]
+ http://interimlender.com had a BaseException as Cannot connect to host interimlender.com:80 ssl:default [getaddrinfo failed]
+ http://appcasual.net had a BaseException as Cannot connect to host appcasual.net:80 ssl:default [getaddrinfo failed]
+ http://jeffersonatplymouthapartments.com had a BaseException as Cannot connect to host jeffersonatplymouthapartments.com:80 ssl:default [getaddrinfo failed]
+ http://xraydocs.com had a BaseException as Server disconnected
+ http://chrislowry.com had a BaseException as [WinError 64] The specified network name is no longer available
+ http://johnwhansen.com had a BaseException as [WinError 10054] An existing connection was forcibly closed by the remote host
+ http://sealwatch.com had a BaseException as Cannot connect to host sealwatch.com:443 ssl:default [None]
+ http://gbox.com had a BaseException as Cannot connect to host gbox.com:80 ssl:default [getaddrinfo failed]
+ http://sysbytc.com had a BaseException as Cannot connect to host sysbytc.com:80 ssl:default [getaddrinfo failed]
+ http://outsourcingnetwork.com had a BaseException as Cannot connect to host outsourcingnetwork.com:443 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'outsourcingnetwork.com'. (_ssl.c:997)")]
+ http://bernsteinsfashions.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://ranchsystems.com had a BaseException as Cannot connect to host ranchsystems.com:443 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ranchsystems.com'. (_ssl.c:997)")]
+ http://danashouse.org had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://rokkan.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://melaniericcardi.com had a BaseException as Cannot connect to host melaniericcardi.com:80 ssl:default [The semaphore timeout period has expired]
+ http://sprucemountaininn.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://itsabouttimeboutique.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://cityave.org had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://barefootinternational.com had a BaseException as Cannot connect to host barefootinternational.com:443 ssl:default [[SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:997)]
+ http://abmechanical.com had a BaseException as Cannot connect to host www.abmechanical.com:443 ssl:default [None]
+ http://banknsb.com had a BaseException as Cannot connect to host banknsb.com:80 ssl:default [The semaphore timeout period has expired]
+ http://jamessurdam.com had a BaseException as Cannot connect to host jamessurdam.com:443 ssl:default [None]
+ http://selectcore.com had a BaseException as Cannot connect to host selectcore.com:80 ssl:default [The semaphore timeout period has expired]
+ http://tagatuci.com had a BaseException as Cannot connect to host tagatuci.com:80 ssl:default [The semaphore timeout period has expired]
+ http://wesleyhousing.org had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://bregmanpartners.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://coregearusa.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://scoreboardmn.com had a BaseException as Cannot connect to host scoreboardmn.com:80 ssl:default [The semaphore timeout period has expired]
+ http://innocon.com had a BaseException as Cannot connect to host innocon.com:80 ssl:default [The semaphore timeout period has expired]
+Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Python310\lib\asyncio\proactor_events.py", line 162, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Python310\lib\asyncio\proactor_events.py", line 162, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Python310\lib\asyncio\proactor_events.py", line 162, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Python310\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Python310\lib\asyncio\proactor_events.py", line 162, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+ http://mid-america.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://bridge.legal had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://exquisitecarsale.com had a BaseException as 0, message='', url=URL('http://exquisitecarsale.com')
+ http://fm99.com had a BaseException as Cannot connect to host fm99.com:80 ssl:default [The semaphore timeout period has expired]
+http://umbrawindowtinting.com:  Schaumburg, IL 60195
+http://embcmonroe.org:  503 Maurice St. Monroe, NC 28112.
+http://caffeygroup.com encountered an HTTP response status code: 500
+http://sk4designs.com:  PO BOX 3411 TELLURIDE, CO 81435
+http://seedsourceag.com:  1610 Chiefs Way Wayne, Ne 68787
+http://saintmlc.com:  26 E.Maine St. Mifflin , Oh 44805
+http://dillonmusic.com:  325 Fulton Street Woodbridge, NJ 07095
+http://societyfortheblind.org:  Society for the Blind 1238 S Street Sacramento, CA 95811 United States
+http://wyandottewinery.com:  Columbus, Ohio 43230
+http://kingdomtel.com:  The owner of kingdomtel.com is offering it for sale for an asking price of 26000 USD!
+http://triplecrownconstruction.com:  1525 Tilco Drive, Unit B-1, Frederick, MD 21704
+http://casepaper.com:  500 Mamaroneck Avenue Harrison, NY 10528 (914) 899-3500
+http://richardbrothersfinancial.com:  Richard Brothers Financial Advisors 50 Donald B. Dean Drive, Suite 1 South Portland, Maine 04106
+http://paramountlandtitle.com:   8904 Sony Lane, Knoxville, TN 37923
+http://neutresalon.com:  101 S Market Street Frederick, MD 21701 301-228-3670
+http://seniorcareagencyny.com:  3601 Hempstead Tpke, Suite 203 Levittown, NY 11756
+http://plentyconsulting.com:  Plenty We help conscious leaders and businesses grow. 613 Franklin Street, Suite A Michigan City, IN 46360 HeartSpace 4343 Highway 224, Suite 203 Park City, UT 84098
+http://ohnstadlaw.com:  444 Sheyenne Street Suite 102 West Fargo, ND 58078
+http://stmatthewmedina.org:  St. Matthew Evangelical Lutheran Church,  400 N. Broadway Street,  Medina,  Ohio  44256      330-725-8885
+http://georgebrownphotography.com:  Alexandria, VA 22308 US
+http://gopremier.biz:  Plano, TX 75074
+http://kiddsmith.com:  Kidd Smith Silk Screen, LLC 117 Riviera Drive Boiling Springs , SC 29316
+http://sheriford.com:  Berkshire Hathaway HomeServices – Florida Realty 8319 Market Street Lakewood Ranch, FL 34202
+http://jackiescleaning.com:  Address: 116 Crowley Rd, Lewiston, ME 04240
+http://purcellvilledental.com:  609 East Main Street, Suite T Purcellville, VA 20132
+http://ayalaboring.com:  10150 POPLAR AVE. FONTANA, CA 92335
+http://bentsoninsurance.net:  653 Forest Ave, Staten Island NY 10310 | don@bentson.net
+http://allenvillagejewelers.com:  190 E Stacy Rd #206, Allen, TX 75002, USA
+http://panniergraphics.com:  © 2021 Pannier Graphics | 345 Oak Road Gibsonia, PA 15044 | 724.265.4900 | All Rights Reserved
+http://embracecomputers.com:  Levittown, PA 19055
+http://appwinit.com:  © 2023 Winit LLC, 1239 Broadway. New York, NY 10001 | All Rights Reserved.
+http://howardinsuranceinc.com:  Hamilton, Indiana 46742
+http://achieveservices.net:  1000 Parkwood Circle SE STE 900 Atlanta, GA  30339 1.888.805.1198 Download Brochure Contact Us Referrals Programs of Care Brain Injury (ABI) Spinal Cord Injury (SCI) PostSurgical/Wound Carebuddy Program Careers Current Openings Apply Our Philosophy Contact Us About Home Copyright 2022 - Achieve Home Nursing Services 
+
+                                                              
+http://habeggercorp.com:  11413 Enterprise Park Drive Sharonville, OH 45241
+http://thegrindcoffeebar.com:  9532 West Linebaugh Ave, Tampa, FL 33626
+http://aaronsantosdentistry.com:  Address 14529 South Bascom Ave Los Gatos, CA 95032
+http://heidimitchellgolf.com:  Heidi Mitchell Golf 3254 Clubside View Ct SW Snellville, GA 30039
+http://teamsunbuilders.com:  40101 Monterey Ave. B-1 #324 Rancho Mirage, CA 92270
+http://fresnogreekfest.com:  2219 N. Orchard, Fresno, CA 93703
+http://raymondkeyandsons.com:  (757) 937-2483 – Office (757) 420-0749 – Fax 4014 Tanglewood Trail Chesapeake, VA  23325 rkcommercial@verizon.net
+http://sellersconstruction.net:  By Mail 115 Milledgeville Hwy Gordon, GA 31031
+http://enidmad.org:  Enid, OK 73703
+http://able-plumbing.net:  1105 Moskowitz Ave Seabrook, TX 77586
+http://chcseia.com:  951 Broadway Street Hamilton, IL 62341 Phone: (217) 847-2112 Fax: (217) 847-3813
+http://gipreit.com:  401 E Jackson St Ste 3300 Tampa, FL 33602
+http://floridaorchestra.org:  THE FLORIDA ORCHESTRA Certificate: 85-8012557655C-5 501(C)(3) Organization 244 2nd Avenue North · Suite 420 St. Petersburg, FL 33701 Tel: 727.892.3331
+http://devact.com:  DeVore, Acton & Stafford, P.A. 438 Queens Road Charlotte, NC 28207
+http://wickedislandbakery.com:  WICKED ISLAND BAKERY  7 B BAYBERRY COURT  NANTUCKET, MA 02554  | WICKEDISLANDBAKERY@GMAIL.COM
+http://tmgi.net:  46169 Westlake Drive, Suite 240 Sterling, VA 20165 TEL: (703) 260-6716 [email protected] Copyright © 2020 The Millennium Group International, LLC. All rights reserved.
+http://stylemultimedia.com encountered an HTTP response status code: 403
+http://royersford.com:  Plant Location: 835 Township Line Rd. Phoenixville, PA 19460-3097
+http://maguirechevroletcadillac.com:  35 Cinema Dr Directions Ithaca , NY 14850
+http://endries.com:  Endries International 714 West Ryan Street P.O. Box 69 Brillion, Wisconsin USA 54110-0069
+http://stmindustries.com:  9524 N Trask St. Tampa, FL 33624
+http://fott.org:  To receive Remind text messages,  type @fottmtg in the message field and send it to 81010.
+http://andersrice.com:  Asheville, NC 28806
+http://albeeappliances.com:  6305 Wilshire Blvd., Los Angeles, CA 90048
+http://acflagandbanner.com:  11616 Shaffer Pl Unit S-103 Littleton CO 80127
+http://sjcadets.org:  06611
+http://wayco.com:  Wayco Insurance Services, Inc. P.O. Box 89-1630 Temecula, CA 92589
+http://clovispointsolutions.com:  Clovis Point Solutions, LLC - 11033 Thrush Ridge Road, Reston, VA 20191
+http://rossmoncure.com:  726 North Washington Street Alexandria, VA 22314 USA
+http://youthchallengesports.com:  800 Sharon Drive Westlake, OH 44145
+http://eyewitnessforlife.org:  3800 N Mayfair Rd Suite 110 Milwaukee WI 53222
+http://thecharlescompany.com:  Sun Lakes, AZ 85248
+http://indilab.com:  FDA regulated company that carries ISO 13485 certification.
+http://brmins.com:  Alamo, CA 94507
+http://crossroadsretreat.org:  255 Crossroad, Caldwell, TX 77836
+http://garagedoorrepair-sierramadre.com:  91024
+http://hinoofcolumbia.com:  Columbia, SC 29212
+http://cherryridgeconstruction.com:  Cherry Ridge 
+
+http://gandwengineering.com:  Maryland Heights, MO 63043​
+http://tacticalmuscle.com:  Address: 1015 W CENTERVILLE RD STE 105, GARLAND TX 75041
+http://hamiltonroofingandacoustical.com:  710 10th Street, Lubbock, TX 79401
+http://lnrothberg.com:  Middlesex, NJ 08846
+http://forestrylaw.com:  12 Fountain Plaza Suite 600 Buffalo, NY 14202
+http://airspaceconsulting.com:  2100 Palomar Airport Road #219, Carlsbad, CA, 92008 USA
+http://casaallegra.org:  35 Mitchell Blvd. Suite 8 San Rafael, CA 94903    Email: info@casaallegra.org Phone: 415-499-1116    Fax: 415-499-0575      Tax ID # 94-2775979
+http://sussexanimalclinic.com encountered an HTTP response status code: 403
+http://frenchwide.com encountered an HTTP response status code: 404
+http://emilyseventsaz.com:  Emily's Events     •     7625 E Redfield Rd Suite 130 Scottsdale, AZ 85260     •    480-361-1800
+http://cybersofttechnologies.com:  9418 Annapolis Road, Suite 200 Lanham, MD 20706 Tel: 301 232-5342 Email: info@cybersofttechnologies.com cybersofttechnologies.com
+http://argocontact.com:  1791 O.G. Skinner Drive, Suite A, West Point, Georgia 31833
+http://enhancedlandscape.com:  28447 Witherspoon Parkway Valencia, CA 91355
+http://westcoastseafood.com:  2814 E Los Angeles Ave Simi Valley CA 93065
+http://kaleabay.com:  13910 Old Coast Rd. Naples, FL 34110 (239) 793-0110
+http://martinselfstorage.com:  Martin Self Storage 9494 SE Hwy 42, Summerfield, FL 34491 Coming Soon!
+http://corpimprints.com:  Address: 55 Lipan St Denver, CO 80223 | E-mail: tammy@cmspecialists.net
+http://heavenlysunshine.com:  ADDRESS: 9170 Southview Street, Southaven, MS 38671
+http://willowtool.com:  Willow Tool & Machining, LTD was established in 1972 and manufactures special tooling from 15110 Foltz Industrial Parkway in Strongsville, Ohio.
+http://tatankastone.com:  13525 A St, Omaha, Nebraska 68144, United States
+http://bayareaturf.net:  Livermore , CA 94551
+http://advnetsol.com:  1527 F St. Bakersfield, CA 93301
+http://dynamichealthcarolinas.com:  4705 South Blvd. Charlotte, NC 28217
+http://ncc.us:  CALIFORNIA RESIDENTS: PRIVACY POLICY NOTICE This Privacy Notice for California Residents supplements and is expressly made part of the information contained in the Nationwide Credit and Collection, Inc. (“NCC”) Privacy Policy (http://www.NCC.us/privacy-policy/) , and applies solely to all visitors, users, and others who reside in the State of California (“consumers” or “you”). We adopt this notice to comply with the California Consumer Privacy Act of 2018 (CCPA) and any terms defined in the CCPA have the same meaning when used in this notice. 1. Information We Collect About You -
+
+http://have2020.com:  Dr. Black's Eye Associates of Southern Indiana 302 West 14th Street, Suite 100A Jeffersonville, IN 47130 Phone: (812) 284-0660 Monday—Friday | 8 a.m.– 5 p.m.
+http://naceyes.com:  3208 N. University Drive Nacogdoches , TX 75965
+http://madmikeandfriends.com:  Poughkeepsie,NY  12603
+http://resortsltd.com:  RESORTS LTD Inc. Real Estate Brokers 6228 Black Horse Pike Egg Harbor Twp, NJ 08234
+http://thedevoregroup.com:  7101 Old Ridge Road, Fairview, PA 16415
+http://wisr.edu:  Address 1812 San Pedro Ave., Berkeley, CA, 94707, USA
+http://milwaukee-montessori.org:  345 N 95th St, Milwaukee, WI 53226 United States.
+http://tripeek.com:  P.O. Box 952 Escondido, CA 92033
+http://northparkpres.org:  9555 N Central Expy Dallas, TX 75231
+http://a-baldoverhead.com:  Location Atascocita, TX 77345
+http://spifunds.com:  Summit Private Investments, Inc. 47 Maple Street, Suite 103 Summit, NJ 07901
+http://channell.com:  CHANNELL COMMERCIAL CORPORATION 1700 Justin Rd, Rockwall, TX 75087 (214) 304-7800
+http://terradynecountryclub.com:  ©2021 Terradyne Country Club. All rights reserved. 1400 Terradyne Drive, Andover, KS 67002-9211 (316) 733-2582 Website by RSM Marketing
+http://bestnapleshomesearch.com:  1495 Pine Ridge Rd #1 Naples, FL 34109
+http://gardenscapetransport.com:  Box 184 Eau Claire, PA 16030 Phone: 800-255-1653 Fax: 724-867-0012
+http://rawhidedistributors.com encountered an HTTP response status code: 404
+http://adgcreative.net:  7151 Columbia Gateway Dr. Suite B Columbia, MD 21046
+http://wildlifeart.org:  2820 Rungius Rd, Jackson, WY 83001
+http://kapitalelectric.com:  1270 Mark St. Bensenville, IL 60106
+http://restaurant-roswellga.com:  | 12040 Etris Rd D100 Roswell GA 30075
+http://crownpaintinginc.com:  4210 Kiernan Ave. Modesto, CA 95356 Phone. 209.322.3275
+http://xtremewirelessnsyracuse.com encountered an HTTP response status code: 404
+http://mattressplus.tv:  Shreveport, Louisiana 71105
+http://winehausfw.com:  1628 Park Place Ave - Fort Worth, Texas - 76110
+http://motion-labs.com:  (225) 272-7364 - sales@motion-labs.com 15045 Old Hammond Hwy, Baton Rouge, LA 70816 USA © 2023 Motion Lab Systems, Inc
+http://vitalizechiropractic.com:  Address: 4980 Benchmark Centre Swansea, IL 62226 Phone: 618.624.9080
+http://mobilecloudlab.com encountered an HTTP response status code: 503
+http://stgcom.com:  1401 Wardingley Ave. Columbiana, OH 44408
+http://bopatelectric.com:  21045
+http://cincinnatifleetcare.com:  10000 Commerce Park Dr West Chester, OH 45246
+http://harnesswealth.com:  520 Broadway, Floor 7 New York, NY 10012 (646) 586-5427
+http://entosdesign.com:  One Lincoln Centre, 5400 Lyndon B Johnson Freeway Suite 125, Dallas, Texas 75240
+http://seniorvillagerehab.com:  315 Harry Guilbeau Road, Opelousas, LA 70570 Ph: (337) 948-4486 | Email
+http://merrickgroupinc.com:  100 Unico Drive West Hazleton, PA 18202
+http://adsdry.com:  Address: 12094 Anderson Rd, Suite 330, Tampa, FL 33625
+http://dillinghammurphy.com:  155 Sansome Street, Suite 700, San Francisco, CA 94104
+http://scottyshubcaps.com:  Hub Cap – Mercury Head Embossed – Stainless Steel – 8-1/4 -Mercury ITEM # 32-17076-1
+http://frontdoorstl.com:  4240 Manchester Ave, St. Louis MO 63110
+http://garydawsonlaw.com:  100 W Summit Hill Dr, Knoxville, TN 37902
+http://masterrenovationsinc.com:  10718 Old Lincoln Way East
+http://ossininglibrary.org:  53 Croton Avenue Ossining, NY 10562
+http://inetmotors.com:  Call Today: 512-213-1152 2695 Villa Creek Drive Farmers Branch, TX 75234
+http://urbanacres.com:  505 E College St, West Branch, Iowa 52358
+http://boccarossainsurance.com:  Milford, CT 06460
+http://isetoday.com encountered an HTTP response status code: 403
+http://salvometalworks.com:  Salvo Metal Works 566 W 5th Ave Naperville, IL 60563
+http://copyarmy.com:  412 N. Market St. Elizabethtown, PA 17022
+http://violenceinterventionprogram.org:  1721 Griffin Avenue Los Angeles, CA 90031 Get Directions
+http://myrollingoaksapartments.com encountered an HTTP response status code: 403
+http://boyleinsures.com encountered an HTTP response status code: 403
+http://mgtreeservices.com:  P.O. Box 153887 Irving TX 75015
+http://jdsclubs.com:  9260 Kaiser Cir NE Otsego, MN 55362
+http://creative-earthscapes.com:  376 Morrison Rd Columbus, Oh 43213
+http://uniquelibrary.com:  119 E. Maple Street Jeffersonville, IN 47130
+http://newdaychurchnetwork.org encountered an HTTP response status code: 403
+http://classicgardens.com:  Check out our fully stocked Garden Center on 1855 Carson Road Birmingham, AL 35215
+http://seanzmortgage.com:  1118 Hampton Ave St. Louis, MO 63139
+http://creartiveinc.com:  PO Box 3245 Myrtle Beach , SC 29578
+http://jonesgrove.com:  1515 Mockingbird Lane | Suite #700 | Charlotte, NC | 28209
+http://johanningsinc.com:  5945 Trojan St NE, Louisville, OH 44641
+http://pproa.org:  3131 Bell St., Suite 209 Amarillo, Texas 79106
+http://sacredspacemiami.com:  THE SPACE MIAMI 105 NE 24th Street Miami, FL 33137 USA
+http://whitehallcamp.org:  Whitehall Camp & Conference Center 580 Whitehall Rd 8040 Emlenton, PA 16373
+http://wingchungainesville.com encountered an HTTP response status code: 404
+http://aprexec.com:  Melville , NY 11747
+http://truesmilesmiami.com:  8500 SW 92nd St Suite 203 Miami, FL 33156
+http://safebasementsinc.com:  Osseo , MN 55369
+http://genebellassociates.com encountered an HTTP response status code: 522
+http://beemlaw.com:  Lathrop GPM LLP, 2345 Grand Boulevard, Kansas City, Missouri 64108
+http://shorecorporation.com:  Shore Corporation 2305 Duss Ave. Suite 3 Ambridge, PA 15003
+http://daytonamitsu.com encountered an HTTP response status code: 403
+http://lamprinostv.com:  Lewisburg, PA 17837
+http://centerlinelogistics.com:  Seattle WA 98134
+http://ctfamilypt.com:  735 Post Road E Westport, CT 06880
+http://dreng.com:  46475 Desoto Court, Novi, MI 48377
+http://ohpsych.org encountered an HTTP response status code: 403
+http://peoplefirstlawyers.com:  16000 Commerce Parkway, Suite C Mount Laurel, NJ 08054
+http://seachangeprogram.org:  © 2020 Sea Change Program: 2120 University Avenue, Suite #630, Berkeley, CA 94704 info@seachangeprogram.org
+http://ecocolorssalon.com:  1860 N Rock Springs Rd Suite 101 Atlanta GA 30324 USA
+http://arrowgiftshop.com:  Visit Us 201 East Wall St, Eagle River, WI, 54521
+http://taabc.org:  1801 E Edinger Ave, Ste 210, Santa Ana, CA 92705
+http://agoraproductions.org:  P.O. Box 452688, Los Angeles, California, USA 90045
+http://concrete-canvas.net encountered an HTTP response status code: 404
+http://pswrehab.com:  194 West Poplar Avenue Porterville, CA 93257 559-784-1399
+http://campwalden-ny.com:  12824
+http://airstreamlosangeles.com:  91776
+http://usourceenergy.com:  1 Liberty Lane East Suite 220 Hampton, New Hampshire 03842
+http://alldolly.com:  AllDolly 11417 Overhill Drive Auburn, California 95602
+http://paykings.com:  433 Central Ave, St. Petersburg, FL 33701
+http://mulchandsod.com:  Orlando Outdoors is a licensed and insured company specializing in landscape gardening. The company’s main outlet center is at 2773 Apopka Blvd. Apopka, FL 32703. Orlando Outdoors has been providing a range of high quality products, including turf grasses, mulching products and plants, as well as professional services, including landscape design, installation and maintenance, to customers since 1995. This indicates our company’s level of experience and dedication to the provision of quality products and services. We have a reputation for and pride ourselves in a total commitment to provide excellent services and high quality products at competitive prices at all times.Orlando Outdoors staff consists of a team of friendly, highly skilled professionals committed to consistently providing the highest levels of customer services. The products offered originate exclusively from reputable, high quality suppliers; ensuring customers will receive nothing but the highest quality products. To find out more about products and services offered by Orlando Outdoors, peruse this website, visit the store on Apopka Blvd, or call and speak to one of the company’s helpful and friendly staff members.
+http://barrywilliamsplumbing.com:  NC License 18804
+http://michellebrumley.com encountered an HTTP response status code: 401
+http://poulsbofamilydentistry.com:  19255 Powder Hill Pl Ne Suite 200, Poulsbo, WA 98370
+http://modelgroup.net:  (513) 559-0048 info@modelgroup.net 1826 Race Street Cincinnati, Ohio 45202
+http://camelot-enterprises.com:  37211
+http://scenicviewcc.com:  Slinger, WI 53086
+http://ortonceramic.com:  Mailing Address PO Box 2760 Westerville, Ohio 43086-2760 USA
+http://bcpas.com encountered an HTTP response status code: 404
+http://dontrecordsmusicgroup.com encountered an HTTP response status code: 403
+http://subaruofrichmond.com encountered an HTTP response status code: 403
+http://adkfragrancefarm.com:  1551 State Hwy 72 Potsdam NY 13676
+http://sardisbaptist.com:  3602 Unionville-Indian Trail Rd W Indian Trail, NC 28079
+http://yanceyworks.com:  919 Reserve Dr Ste 101, Roseville, CA 95678, USA
+http://bocahomecareservices.com:  Boca Home Care Services 4700 NW 2nd Ave, Suite 400 Boca Raton, Fl 33431 561-989-0611 1-877-706-0785 LisaK [at] bocahomecare.com Nurse Registry License #30211009
+http://iqfitness.net:  We are conveniently located in the heart of Buckhead in Peachtree Battle at 2303-B Peachtree Road, Atlanta, Georgia 30309.
+http://4parkwayhonda.com encountered an HTTP response status code: 403
+http://cjmcbride.org:  CJ McBride Ministries (Physical) 17644 County Rd 26 (Mailing) P.O. Box 2187 Foley, Alabama 36536 Phone: 251-943-1615 Email: info@cjmcbrideministries.org
+http://aatoppers.com:  6955 West Colfax Lakewood,CO 80214
+http://trinityairmedical.com:  1437 W Auto Drive, Tempe, Arizona 85284
+http://tellusoperating.com:  602 Crescent Place Ridgeland, MS 39157
+
+http://alexanderfamilybuickgmc.com encountered an HTTP response status code: 405
+http://premierdentalcareofbuckhead.com:  3580 Piedmont Road NE, Tuxedo Center Suite 113 Atlanta, GA 30305 Map & Directions [+]
+http://adventures-in-learning.org encountered an HTTP response status code: 403
+http://thundermountainharley.com:  4250 Byrd Drive , Loveland, CO 80538
+http://upstatetelecom.com:  Hudson Valley, Orange County, Monroe, NY 10950
+http://multilayer.com:  Multilayer Technology has been producing quality Printed Circuit Boards since 1986. We are an AS9100 & ISO 9001:2008, ITAR & JCP, MIL-PRF-31032 certified company.
+http://cacustomaquariums.com:  4580 Alvarado Canyon Rd. Ste A , San Diego, CA 92120
+http://kauffmangas.com:  850 Gap Newport Pike, Atglen PA 19310
+http://stationinnpa.com:  827 Front Street Cresson, PA 16630
+http://tulsadoorman.com:  PO Box 1352 Catoosa, Oklahoma 74015
+http://erling.com:  225 Benelli Drive Hutto, TX 78634
+http://abc-assembly.com:  ABC Assembly  7230 Empire Central           Drive Houston, TX 77040 TEL ( 713 ) 983 - 7192 © 2014 All Rights Reserved ABC Assembly
+http://statmedical.net:  - R. Kotler, MD FACS as seen on DR. 90210 and famous author of Secrets of a Beverly Hills Cosmetic Surgeon.
+http://tbtyler.com:  13687 FM 206 | Tyler, TX 75709
+http://texasafterviolence.org:  PO Box 41476, Austin, TX 78704
+http://ferrellaw.com:  Ferrells, PLLC P.O. Box 312 Clifton, VA 20124 Phone 703-250-5687 703-250-5688 (Fax) mailto:mike@ferrellaw.com
+http://thevetcenter.com:  The Veterinary Center at Hunter's Crossing 5200 NW 43rd Street, Suite 501 Gainesville, FL 32606
+http://pchandy.net:  Find us here: 12702 Larchmere Boulevard 2nd Floor
+http://quantumhelicopters.com:  Quantum Helicopters • 2401 South Heliport Way, Chandler, AZ 85286
+http://horizonconvention.com:  Muncie, IN 47305
+http://paisansrest.com:  131 West Wilson - Madison, WI 53703
+http://ourbellinis.com:  Bellinis, 6801 Cahaba Valley Rd, Birmingham, AL, 35242
+http://reshapelifesciences.com:  1001 Calle Amanecer San Clemente, CA 92673
+http://changemanagementreview.com:  6012 Bayfield Pky Suite 208 Concord, NC 28027
+http://westbrosinc.com:  West Brothers Heating and Air Conditioning 4740 S Riverside Dr Murray, UT 84123 801.263.3763 service@westbrosinc.com
+http://newhomemedia.net:  39 Sage Lane Fredericksburg, VA 22405
+http://econic.co:  701 P Street, Suite 302, Lincoln, NE 68508
+http://chasepropertyllc.com:  7239 N. Sheridan Rd. Chicago, IL 60626                                                                   1-773-465-0323
+http://kellyandstonearchitects.com:  11209 Brockway Road, suite 211 Truckee, California 96161
+http://trivan.com:  Call: 360.380.0773 Location: 1385 W Smith Road, Ferndale, WA 98248 United States
+http://fccmwc.org:  First Christian Church 11950 E. Reno Avenue Midwest City, OK 73130 Phone: (405) 769-2717 Fax: (405) 259-8311 Click for Directions
+http://sage-research.com:  We know our HF docs: 62366, the FDA guidance, HE74/75
+http://dellsducks.com:  53965
+http://floridacommercialteam.com:  Copyright © Florida Commercial Team  |  RE/MAX Advance  |  7220 Red Road  |  South Miami, Florida 33143  | Login Site Design: Real Estate Tomato
+http://novellasrecycling.com:  Novella’s Recycling located at 5 Thorpe St., Danbury, Connecticut 06810, provides recycling services to retail customers as well as industrial accounts and anyone who wants to play a role in sustainable resource management and environmental conservation. Whether you are a commercial entity looking to better manage the recyclables generated in your general operations, a contractor looking to capitalize on materials produced on job sites, a government agency looking to better serve your community or a homeowner cleaning up around the house, we can provide a solution to best serve your recycling needs.
+http://miamifloridahomesecurity.com:  ADT Home Security Alarm System 3650 NW 82 Ave Suite 405 Miami, Fl 33166 786-325-7867 or 305-233-6044
+http://santaclarajumpers.com:  95050
+http://lchealth.org:  Lowell Community Health Center 161 Jackson Street Lowell, MA 01852
+http://mimovers.org:  416 S Cedar St, Suite H, Lansing, MI 48912
+http://hancock.k12.ga.us:  10571 Hwy 15 North, PO Box 488
+http://lrgmarketing.com:  48 Burd Street, Suite 105 Nyack, New York 10960
+http://mscenteroftidewater.com:  Multiple Sclerosis Center of Tidewater  •  6161 Kempsville Circle, Suite 315  •  Norfolk, Virginia 23502  •  757-461-5400
+http://pripo.com:  (828) 712-8398 • 77 Church St. Asheville, NC 28801
+http://andonelect.com:  Andon Electronics has developed a multi-functional socket for the Kodak Image Sensor, KAI-08050, using our unique Senstac™ contact specifically designed for image sensor devices. Andon sockets provide high reliability.
+http://toplinetireandauto.com:  3371 Commercial Way Spring Hill, FL 34606 (352)-666-6446
+http://slavkin.net:  St. Louis, Missouri 63141
+http://folsomshope.org:  1100 Blue Ravine Road Folsom, CA 95630
+http://precisioninternational.com:  23 Sardis Road Asheville, NC 28806
+http://rbhmedia.com:  rbh@rbhmedia.com voice 914 - 693 - 8755 fax 914 - 693 - 3539 12 Hatch Terrace, Dobbs Ferry, NY 10522
+http://dentremovalcedarfalls.com:  DentTek 3620 Fast Lane, Suite C Cedar Falls, IA 50613 (319) 493-0441
+http://ccslableaks.com:  (972) 287-2354 M-16779
+http://tetonthaivillage.com:  Teton Village, WY, 83025 (307) 733-0022
+http://tamethewater.com:  Licensed Swimming Pool Contractor in the State of AL #53312
+http://historicldstours.com:  South Jordan, UT 84095
+http://losangelespest.com:  Los Angeles, 90001   |   Los Angeles, 90002   |   Los Angeles, 90003   |   Los Angeles, 90004   |   Los Angeles, 90005   |   Los Angeles, 90006   |   Los Angeles, 90007   |   Los Angeles, 90008   |   Los Angeles, 90009   |   Los Angeles, 
+
+http://londonburyhomes.com encountered an HTTP response status code: 404
+http://roanefamilydental.com encountered an HTTP response status code: 403
+http://manddbirdfarm.com:  26754 Lewes Georgetown Hwy
+http://promoviper.com:  PromoViper.com, 1266 Post Rd, Hazlehurst, GA, 31539, United States
+http://meditatingentrepreneur.com:  Fairfield, IA 52556
+http://salesianhigh.org:  148 E. Main Street New Rochelle, NY 10801
+http://fiba.net:  80 SW 8th St #2170 Miami, FL 33130
+http://billingssecuritycameras.com:  230 Broadwater Ave Billings, MT 59101
+http://valentbiosciences.com:  1910 Innovation Way, Suite 100 Libertyville, Illinois 60048 USA
+http://switcheyecenter.com:  8950 Telegraph Road Taylor, MI 48180 +1 (313) 295-3937
+http://tapestrips.com:  Industrial Packaging Concepts | 405 Orchard Street, Antioch, IL, 60002, United States
+http://teladata.com:  39300 Civic Center Drive Suite 390 Fremont, CA 94538
+http://parkwaytoyota.com:  50 Sylvan Avenue (9W) Directions Englewood Cliffs , NJ 07632
+http://airform.co:  ©2015 - AIR FORM                                                                                         Sterling, Alaska. 99672 - USA                                                                                       Ph: +907-903-7490        
+http://bootleggerlasvegas.com:  Las Vegas NV 89123
+http://sherinixonteam.com:  29926
+http://synpoly.com:  Phone:            (713)  780 - 8888 FAX:                (713) 
+                           780 - 8887 Toll Free:          1  (800) 
+                           Syn Poly e-mail: sales@SynPoly.com mail:           Post
+                           Office Box 69 Sugar
+                           Land, TEXAS 77487-0069 United States of America
+http://wheelalignmenttorrance.com:  1623 Sepulveda Blvd. Unit #2. Torrance, Calif. 90501
+http://plurfectinc.com encountered an HTTP response status code: 403
+http://gokeyless.com:  (877) 439-5377 Outside U.S. +1 (937) 247-9327 955 Mound Rd Miamisburg, OH 45342
+http://tcors.com:  43 Broad Street P.O. Box 58 New London, CT 06320-0058
+http://stonearchcapital.com:  40 S. 7th Street Suite 212 Box 227 Minneapolis, MN 55402
+http://fmsymphony.org:  FARGO-MOORHEAD SYMPHONY ORCHESTRA 808 3rd AVENUE SOUTH #300, FARGO, ND 58103 OFFICE PHONE: 701-478-3676 EMAIL: info@fmsymphony.org SUMMER OFFICE HOURS Monday - Thursday: 9AM - 5PM Friday: 9AM - NOON Saturday - Sunday: Closed Please call at the number listed above or email info@fmsymphony.org for assistance.
+http://gtownradio.com:  24 Maplewood Mall Philadelphia, PA 19144
+http://marylandlanguage.com encountered an HTTP response status code: 500
+http://amerifirstloan.com:  1550 E. McKellips Road, Suite 117, Mesa, AZ 85203
+http://joejohnstattoos.com encountered an HTTP response status code: 444
+http://rek-ins.com:  5429 Lyndon B Johnson Freeway Suite #450 Dallas, TX 75240
+http://usmrc.org:  344 Aquidneck Avenue Middletown, RI 02842
+http://tri-starmechanical.com:  114 Joey Drive, Elk Grove Village, Il 60007-1304
+http://veteransrebuildinglife.org:  Registered 501(c)(3) Nonprofit Organization EIN: 27-3586224 DUNS: 079703556 ST-119: 27029 Attorney General
+http://mimivax.com:  JCO.22.00996
+http://airservicesco.com:  211 Seegers Avenue Elk Grove Village, IL 60007 (847) 725-2100​
+http://deltaglobalinvestments.com:  Securities Offered Through Bolton Global Capital, Inc. Member FINRA , SIPC 579 Main St., Bolton, MA 01740. 978-779-5361
+http://aurorak12.org:  APS GED Testing Center, Mobile 78, Pickens Technical College, 500 Airport Blvd., Aurora, CO 80011
+http://thevillahome.com:  12565 Downey Ave, Downey, CA 90242.
+http://rodneyyoungphotography.com:  1 Zachary Ct Mansfield TX, 76063
+http://superiordistribution.net:  WIN THE SALE WORKSHOP- Peachtree Corners, GA. DATE: Wednesday, May 24th, 2023. TIME: 9:00 AM to 3:00 PM (Lunch Provided) LOCATION: Atlanta Marriott Peachtree Corners – 475 Technology Pkwy, Peachtree Corners, GA. 30092
+http://gianellis.net:  For screen reader problems with this website, please call 916-366-1342 9 1 6 3 6 6 1 3 4 2 Standard carrier rates apply to texts.
+http://alphamedaesthetics.com:  1819 Fort Bragg Rd. Fayetteville, NC 28303
+http://moviestarjacket.com encountered an HTTP response status code: 503
+http://atlinkcom.com:  1115 Gemini St, Suite 200, Houston, TX - 77058 Call Us: (US) (281) 645-6907 Call Us: (Sri Lanka) +94 112 675 602
+http://shadowhills.org:  7811 Vegas Dr, Las Vegas, NV 89128 Phone: 702-880-7811
+http://pusd.us:  CONTACT INFORMATION: 351 S. Hudson Ave Pasadena, CA 91109 (PHONE) 626.396.3600 (FAX) 626.795.5309 Site Map
+http://crossfitrockland.com:  17 S. Greenbush Rd Orangeburg, NY 10962
+http://classappliance.com:  733 Clearwater Largo Rd N, Largo, FL 33770
+http://visitstegen.com:  Welcome Center 66 South Main Street Ste. Geneviève, MO 63670
+http://trockilaw.com:  45 Narragansett Avenue, Jamestown, RI 02835
+http://sidebysideclubhouse.org:  1001 Main Street, Stone Mountain, GA 30083
+http://camphillvillage.org:  84 Camphill Road Copake, NY 12516
+http://hvac-tech.com:  You can easily reach the HVAC Technical Institute at our location 5 minutes away from Midway Airport. Our 26,000 square foot facility features 16,000 square foot of lab & shop areas, and of course, 10,000 square feet of classroom & office space. Stop by our campus any time at 4532 S. Kolin Avenue, Chicago, IL 60632.
+http://nationalforests.org:  Combined Federal Campaign (CFC) # 12053 www.earthshare.org ©2023 National Forest Foundation
+http://dcsrvcenter.com:  610 Bailey Ave, Tehachapi, CA 93561, US
+http://rewinddance.org:  3391 Madison Street Clarksville, TN, 37043, US
+http://paintingconcepts.com:  Palm Beach Lic. #U-18009 | Broward Lic. #94-7388-PU-X
+http://magnummobilesv.com:  Magnum Mobile Specialty Vehicles 23225 N. 19th Ave. Phoenix, AZ. 85027 Call: 602-715-2814 MagnumMobileSV.com Email Us Today!
+http://endevon.com:  ENDEVON CAPITAL, LLC 641 Lexington Avenue, 14th Floor New York, NY 10022
+http://lancastermennonite.org:  2176 Lincoln Hwy E Lancaster, PA 17602
+http://ewingbuildingandcabinets.com:  Ewing Companies Marlington & Main 1701 S. Main Street Blacksburg, VA 24060 540.951.0544
+http://cre8group.com:  Corporate Location 3107 W Ballast Point Blvd Tampa, Florida 33611  |  USA
+http://ad-vanced.de had a BaseException as Cannot connect to host ad-vanced.de:80 ssl:default [getaddrinfo failed]
+http://treesidemusic.com had a BaseException as Cannot connect to host treesidemusic.com:80 ssl:default [getaddrinfo failed]
+http://b-s.de had a BaseException as Cannot connect to host b-s.de:80 ssl:default [getaddrinfo failed]
+http://in-chemnitz.de had a BaseException as Cannot connect to host in-chemnitz.de:80 ssl:default [getaddrinfo failed]
+http://langermediaconsulting.de had a BaseException as Cannot connect to host langermediaconsulting.de:80 ssl:default [getaddrinfo failed]
+http://stickybiscuits.com had a BaseException as Cannot connect to host stickybiscuits.com:80 ssl:default [getaddrinfo failed]
+http://hostnet.de had a BaseException as Cannot connect to host www.hostnet.de:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)')]
+http://mcon.net had a BaseException as Cannot connect to host mcon.net:443 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mcon.net'. (_ssl.c:997)")]
+http://orbitlog.com had a BaseException as Cannot connect to host www.orbitlog.com:443 ssl:default [The specified network name is no longer available]
+http://minespider.com had a BaseException as Server disconnected
+http://proxy-studios.com had a BaseException as Cannot connect to host proxy-studios.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)')]
+http://m-und-h.de had a BaseException as Cannot connect to host www.m-und-h.de:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:997)')]
+http://science-on-stage.eu had a BaseException as Cannot connect to host science-on-stage.eu:80 ssl:default [The semaphore timeout period has expired]
+http://joinairbank.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://ngn-europe.com had a BaseException as Server disconnected
+http://daniel-philipp.com had a BaseException as Cannot connect to host daniel-philipp.com:443 ssl:default [None]
+http://mysumtu.com had a BaseException as Cannot connect to host mysumtu.com:443 ssl:default [None]
+http://dirkbecker-entertainment.de had a BaseException as Server disconnected
+http://derwil.com had a BaseException as 'utf-8' codec can't decode byte 0xfc in position 6223: invalid start byte
+http://vr-on.com had a BaseException as Cannot connect to host vr-on.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)')]
+http://awantego.com had a BaseException as Cannot connect to host awantego.com:443 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'awantego.com'. (_ssl.c:997)")]
+http://trinyx.org had a BaseException as Cannot connect to host trinyx.org:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)')]
+http://createmeaning.com had a BaseException as Cannot connect to host createmeaning.com:443 ssl:default [None]
+http://imaos.de had a BaseException as Cannot connect to host imaos.de:80 ssl:default [The semaphore timeout period has expired]
+http://eprairie.com had a BaseException as Cannot connect to host eprairie.com:80 ssl:default [The semaphore timeout period has expired]
+http://merantix.com had a BaseException as Cannot connect to host merantix.com:443 ssl:default [None]
+http://miltonkeynesphotography.com had a BaseException as Cannot connect to host miltonkeynesphotography.com:80 ssl:default [The semaphore timeout period has expired]
+http://wotechsolar.com had a BaseException as Cannot connect to host wotechsolar.com:80 ssl:default [The semaphore timeout period has expired]
+http://a-maze.net had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://coffee-fellows.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://berlin-partner.de had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://smartclip.tv had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://mobiuslabs.com had a BaseException as Cannot connect to host mobiuslabs.com:443 ssl:default [None]
+http://heldentaten.net had a BaseException as Cannot connect to host heldentaten.net:443 ssl:default [None]
+http://rainer-spiering.de had a BaseException as 'utf-8' codec can't decode byte 0xdc in position 27053: invalid continuation byte
+http://ihk-party.de had a BaseException as Cannot connect to host www.ihk-party.de:443 ssl:default [The semaphore timeout period has expired]
+http://devk.de had a BaseException as [WinError 10054] An existing connection was forcibly closed by the remote host
+http://gmx.net had a BaseException as [WinError 10054] An existing connection was forcibly closed by the remote host
+http://filmconfect.com had a BaseException as Cannot connect to host www.filmconfect.com:443 ssl:default [None]
+http://xell-consulting.de had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://imiconsulting.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://coi.de had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://lcs-schlieben.de had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://vsda.de had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://eventcompanies.de had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://nature-trails-events.de had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://undercover.de had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://rapidshape.de had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://axonic.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://chapeau-restaurant.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://misseverywhere.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://web-design-studios.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://cortec-neuro.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://leanport.de had a BaseException as Cannot connect to host www.leanport.de:443 ssl:default [None]
+http://k-konzept.de had a BaseException as Cannot connect to host www.k-konzept.de:443 ssl:default [None]
+http://allectra.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://eve-images.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://ixenso.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://hk-bs.de had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://bos-buero.de had a BaseException as Server disconnected
+http://sinoian.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://horze.eu had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://aesir-interactive.com had a BaseException as Cannot connect to host aesir-interactive.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)')]
+http://nuvitababy.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+http://revdemand.com encountered an HTTP response status code: 500
+http://theflounderfishcamp.com:  The Flounder was built in 1969 by Arthur W. and Joann Toney. The Flounder is located at 160 Barbado Lane, Spartanburg 29303. The Flounder has served millions of people since 1969 and is regarded as the best seafood restaurant around. On Friday and Saturday lines can be long during prime hours but ask anyone and they will agree the line moves fast, the service is prompt and the food is always hot!
+http://dignifiedhomeloans.com encountered an HTTP response status code: 403
+http://grfamilychiropractic.com:  6771 Cascade Rd SE, Grand Rapids,        MI 49546
+http://thornefinancialpartners.com:  Thorne Financial Partners 100 Independence Drive Suite 7-707 Hyannis, MA 02601
+http://heritagelifestyledoors.com:  Family Owned and Operated in Denver, Colorado SHOWROOM OPEN MON-SAT 10AM-3PM 303-458-5577 SCHEDULE YOUR SAFE SHOWROOM VISIT BY APPOINTMENT 4300 West 38th Avenue Denver, CO 80212 Located in the historic Highlands neighborhood at 38th & Stuart. FREE off-street parking!
+http://theswag.com:  2300 Swag Road Waynesville, NC 28785
+http://milehightattoo.com:  10351 Grant St, 10, Denver, CO 80229, US
+http://drinkmebeverages.com:  Corporate Headquarters: Box 235, 553 N PCH, Suite B, Redondo Beach, California, 90277
+http://greatstatetransmissions.com:  3487 S Padre Island Drive, Corpus Christi, TX 78415
+http://upswing.com:  Office Location Upswing Marketing, Inc. 409 Tennant Sta, #190 Morgan Hill, CA  95037 Phone: (877) 946-4266 E-mail: sales@upswing.com
+http://kupferbergcenter.org:  153-49 Reeves Avenue Flushing, NY 11367-1597
+http://flstatewideinsurance.com:  Florida Statewide Insurance, Inc 2755 East Oakland Park Blvd Ste 101
+Fort Lauderdale, FL 33306
+http://solarlightsandmore.com:  5640 SW 6th Pl, Suite 400 Ocala, FL 34474 View Map Business Hours: Mon - Fri: 8:30 am - 4:30 pm
+http://kuk24.de:  Kubach & Klings Werbetechnik GmbH Mercedesstraße 13 D–71139 Ehningen
+http://akzent-personal.de:  08000 777222
+http://eurofighter.com:  55000 Ft
+http://infinity-reisen.com:  INFINITY REISEN Schorndorfer Straße 27 70736 Fellbach
+http://rtc-c.com:  Rouhafza Deutschland Trade Consulting Center Fariborz Rouhafza Maffeistr. 12 D-93059 Regensburg Germany Tel: 0049-941-8703612 Fax: 0049-941-8703613 eMail: info@rtc-c.com VAT-Id: DE238076980 همکاری با شرکت هواپیمایی: اخبار مرکز تجاری روح افزا شرکت
+تجاری روح افزا المان عضو رسمی وزارت بازرگانی , عضو دایمی اتاق بازرگانی و صنایع المان ,
+طرف قرارداد رسمی هواپیمایی لوفت هانزا, دارای مجوز رسمی صادرات از المان نمایشگاه‌های تجاری و صنعتی ارسال دعوت نامه‌های تجاری شینگن جهت شرکت در نمایشگاه‌های تجاری و صنعتی , اطلاعات غرفه ها , رزرو بلیط و اطلاعات مربوط به هتل های نزدیک به نمایشکاه ها پاکت تجاری  شرکت رو
+ح افزا Business Paket
+ویژه شرکت های تجاری در ایران حاوی کلیه امور تجاری , حقوقی و بازرگانی  در کمتر از 4 هفته تاسیس و ثبت تضمینی شرکتهای تجاری در کشور المان استفاده ار مزایای تجاری, تسهیل در امور روادیدی و مزایای مالیاتی و گمرکی برای مدیران , از طریق پاکت تجاری شرکت روح افزا المان    
+http://scheurer-arbeitsbuehnen.de:  Für weitere Informationen, Buchungsanfragen und Terminabsprachen erreichen Sie uns per Telefon unter 07161 / 9141516 und über unser Online-Formular . Selbstverständlich wird Ihr Anliegen umgehend bearbeitet und Sie erhalten in Kürze Rückmeldung.
+http://aycan.de:  aycan Digitalsysteme GmbH Innere Aumühlstr. 5 97076 Würzburg . Germany Tel. +49(0)931.270 40 90 Fax +49(0)931.270 40 91 info@aycan.de www.aycan.de Datenschutz
+http://hopegala.de:  53111 Bonn
+http://binect.de:  +49 6151 90670
+http://audiopro.de:  Als zertifizierter Betrieb nach ISO 9001 und DIN 14675 bieten wir Ihnen Qualität bei der Planung, Projektierung und Inbetriebnahme von Sprachalarmanlagen und elektroakustische Notfallwarnsystemen.
+http://bdia.de:  Bundesgeschäftsstelle Wilhelmine-Gemberg-Weg 6, Aufgang G 10179 Berlin Tel. +49 30 640 779 78 Fax +49 30 914 424 19 info@bdia.de
+http://spectra.de:  D-72768
+http://itsmgroup.com:  Uwe-Zeidler-Ring 12 55294 Bodenheim Tel.: + 49 6135 93340 Fax: + 49 6135 933422 E-Mail: info@itsmgroup.com
+http://kessel.de:  Abdichtung im Verbund nach DIN 18534
+http://scheu-group.com:  02374 9288-0
+http://hotel-sprenz.de:  26121 Oldenburg
+http://bad-harzburg.de:  Buchungshotline: 05322 75330
+http://begehbares-glas.com:  GSL.GLASOLUX GmbH Nordfeldweg 87 D – 33659 Bielefeld
+http://cbk.de:  Hotline : +49 34202 346910
+http://quorion.de:  QUORiON Data Systems GmbH An der Klinge 6 99095 Erfurt Deutschland
+http://ekiem.de:  9. Oktober 2019 9. Oktober 2019
+http://portraitbox.com:  05254 / 9362411
+http://tdh.de:  terre des hommes Sparkasse Osnabrück IBAN DE34 2655 0105 0000 0111 22 BIC NOLADE22XXX terre des hommes ist durch die Steuernummer 66/270/01407 als gemeinnütziger Verein anerkannt und von der Körperschaftssteuer befreit. Die Umsatzsteuer-Identifikationsnr. lautet DE117646214.
+http://polizeioldtimer.de:  Öffnungszeiten und Termine 2023 1. Mai 2023
+http://robertwilsonstiftung.com:  Lummi U. Kieren Robert Wilson Stiftung Büro Berlin Christstrasse 35 D-14059 Berlin
+http://go-east.de:  Infoabend Finnland Karelien in Hamburg Wann: Donnerstag, 01.06.2023 um 19 Uhr Wo: Weinkontor und Eventlounge GeoVino, Klaus-Groth-Straße 15 c-d, 20535 Hamburg (Gewerbehof) Lernen Sie unsere Finnland Experten und die Experten …
+http://pixupmedia.com:  10115
+http://inkota.de:  INKOTA-netzwerk e.V. Chrysanthemenstraße 1-3 10407 Berlin
+http://uds-beratung.de:  DIN 14675 Schulung, BMA, SAA, Zertifizierung für Brandschutz und Sicherheit, QM, Qualität Machbar
+http://joest-racing.de:  Telefon +49 6207 94200
+http://gini.net:  ISO 27001 zertifiziert
+http://bfacademy.com:  +49 (0)7626 91610
+http://kinderturnstiftung-bw.de:  Fritz-Walter-Weg 19 70372 Stuttgart 0711-49092700 info@kinderturnstiftung-bw.de
+http://dirigent-gesucht.de:  dirigent-gesucht.de Rosenbergstraße 109 70193 Stuttgart E-Mail: info@dirigent-gesucht.de
+http://bmw-z1.club:  BMW Z1 Club e.V. Clubsekretariat Hanni Schäfer Hildeboldstr. 11a 50226 Frechen
+http://net-toys.de encountered an HTTP response status code: 500
+http://meininger.de:  Meininger Verlag GmbH Maximilianstraße 7-15, 67433 Neustadt/Weinstraße
+http://nabu.de:  BFD-Outdoor-Seminar 72074 Bebenhausen
+http://systeme24.de:  24/7 für Sie da: 06131 – 58335-24
+http://big-picture.com:  Köpenicker Str. 18-20, 10997 Berlin
+http://bioanalyt.com:  +49 (0)3328-35150-00 contact@bioanalyt.com
+http://rowiak.de:  30419 Hannover / Germany
+http://internetx.com:  Sales : +49 941 59559-483
+http://campingshop-24.de encountered an HTTP response status code: 403
+http://vermes.com:  Rudolf-Diesel-Ring 2 83607 Holzkirchen Deutschland Phone: +49 (0)8024 644-0 info (at) vermes.com
+http://sebastian-klammer.de:  Sebastian Klammer Grafikdesign Berlin Käthe-Niederkirchner-Str. 28, 10407 Berlin
+http://nittardi.com:  © 2022 Nittardi | 53011 Castellina in Chianti, SI, Italy | +39 057 774 0269 | info@nittardi.com
+http://strateco.group:  61348 Bad Homburg v.d.H.
+http://frankfurt-holm.de:  House of Logistics and Mobility (HOLM) GmbH Bessie-Coleman-Straße 7 60549 Frankfurt am Main
+http://trankvile.com:  Nedderfeld 110K, 22529 Hamburg Sillemstr. 106, 20257 Hamburg Rathausstr. 8, 24103 Kiel Noorstr. 22, 24340 Eckernförde
+http://kiwi-consulting.de:  Die Inbetriebnahme des Großprojekts TARGET2/T2S-Konsolidierung wird auf März 2023 verschoben, um eine noch größere Systemstabilität, bessere Vorbereitung der Nutzer und einen reibungslosen Übergang auf die neue Plattform sicherzustellen. 
+Zentrale Neuerung ist die flächendeckende Verwendung ISO 20022-konformer SWIFT-Nachrichten über alle TARGET-Services hinweg.
+http://onventis.de:  In unserem ISO 27001-zertifizierten Cloud-Rechenzentrum in Frankfurt/Main (Deutschland) bieten wir verlässliche Sicherheit unter Einhaltung der Datenschutz-Grundverordnung (DSGVO) der Europäischen Union. Die DSGVO regelt die Verarbeitung von personenbezogenen Daten natürlicher Personen in der Europäischen Union sowie die Übermittlung personenbezogener Daten außerhalb des Europäischen Wirtschaftsraums. Als Cloud-Pionier haben Datensicherheit und Hochverfügbarkeit für uns seit der Gründung 2001 oberste Priorität.
+http://ifw-dresden.de:  Leibniz-Institut für Festkörper- und Werkstoffforschung Dresden e. V. Helmholtzstraße 20 01069 Dresden
+http://lisekruegerbarth.com:  Postal address: Lise Krueger-Barth Art Postfach 1132 73055 Ebersbach an der Fils Germany
+http://sams-think-special.de:  Sams Think Special GmbH Wandlhamerstraße 25 82166 Gräfelfing/München Deutschland
+http://dresden-onlineshop.de:  RE Handels GmbH Sagarder Weg 1 Fontane Center 01109 Dresden Deutschland
+http://drehmoment-gmbh.de:  Telefon: 07071 9150851 Fax: 07071 9150852 E-Mail: kontakt@drehmoment-gmbh.de
+http://basic.de encountered an HTTP response status code: 503
+http://igo-werbeartikel.de:  02152 896 125
+http://haasehof.de:  HAASEHOF · Lindenstraße.5 · 27419 Sittensen · Telefon: 04282-5577 · Fax: 04282-5678 ·
+http://eps-personal.org:  Tel.: 07461/90071-00
+http://stein-automation.de:  Carl-Haag-Str. 26 78054 Villingen-Schwenningen Deutschland
+http://mp-gruppe.de:  M&P Gruppe Gablonzstraße 2–4 38114 Braunschweig Deutschland
+http://gargiulo.de:  GARGIULO GmbH Daimlerstr. 21 72147 Nehren
+http://pixelboxx.com:  18000
+http://goettfert.de:  74722 Buchen
+http://delphin.com:  Call us at +49 (0) 2204 97685-0
+http://wunderstudios.com:  13347 Berlin
+http://swfr.de encountered an HTTP response status code: 404
+http://kunstverein-bielefeld.de:  KUNSTVEREIN BIELEFELD Welle 61 33602 Bielefeld
+http://himmelhochjauchzend.com encountered an HTTP response status code: 500
+http://ralphjo.com:  Robert-Blum-Str. 28a | D-08209 Auerbach/Vgtl. (Germany)
+http://garnetbag.com encountered an HTTP response status code: 500
+http://amex-sanivar.com:  40472 Düsseldorf
+http://sprachrausch.com:  Else Gellinek Sertürnerstr. 12 48149 Münster Tel.: +49 251 98 298 050 Fax +49 251 97 567 195 E-Mail: else@sprachrausch.com USt-IDNr.: DE290314693
+http://blackpearlfilm.com encountered an HTTP response status code: 404
+http://zahnarzt.ac:  dent-à-la-carte Zahnarztpraxis Rochusstrasse 22-24, 52062 Aachen
+http://pikasslifestyle.com:  icon Tel.: 06202/5907800
+http://consulegis.com:  Bradandstrasse 7. 22297 Hamburg, Germany. Phone: +49 152 36381171 Skype: CONSULEGIS EWIV EEIG Email: consulegis@consulegis.com
+http://leagasdelaney.de:  Leagas Delaney Hamburg GmbH Große Elbstraße 145a 22767 Hamburg
+http://cellsystems.eu:  Junkersring 5 53844 Troisdorf Germany
+http://getrental.de encountered an HTTP response status code: 404
+http://german-pellets.de:  Tel.: 03841-303060
+http://dr-estrich.com:  Industriestraße 12 86609 Donauwörth Deutschland
+http://y-square.de:  Daniela König & Thorsten Schneider GbR Hauptstraße 176/1 79211 Denzlingen
+http://makers.do:  MAKERS Münzstr. 21, 10178 Berlin | Germany
+http://papiernetz.de:  Initiative Pro Recyclingpapier c/o Nissen Consulting GmbH & Co. KG, Schumannstraße 17, 10117 Berlin Lea Eggers, Stellv. Leiterin der Geschäftsstelle, 030 / 315 1818-73 lea.eggers@papiernetz.de , www.papiernetz.de
+http://integrationmatters.com:  Viele Kunden, z.B. aus dem Gesundheitswesen, haben höchste Ansprüche an den Schutz sensibler Kundendaten. MuleSoft Anypoint erfüllt von Anfang an die Konformität mit DSGVO, ISO 27001, SOC 2 und PCI DSS und sichert Ihr Unternehmen automatisch mit vorgefertigten als auch mit Ihren eigenen Richtlinien ab.
+http://hotelcult.de:  Cult Hotel Frankfurt City Offenbacher Landstraße 56 60599 Frankfurt am Main Tel. +49 69-96 24 46-0 Fax +49 69-96 24 46-666 E-Mail: info@hotelcult.de
+http://fertan.de:  Saar-Lor-Lux Straße 14 Saarbrücken 66115
+http://naturprodukte24.net:  Fitness (10220)
+http://kalthoff-kollegen.de:  T: +49(0)2064 41200
+http://werbemax.de:  werbemax GmbH Kammerer Feld 3 83123 Amerang Deutschland
+http://casino-poker-manager.com:  Oberweg 6 82008 Unterhaching Germany Email: info @ casinoware.com
+http://awesomeberlin.net encountered an HTTP response status code: 523
+http://malteserjugend-trier.de:  Malteser Jugend Diözese Trier Metternichstraße 29a 54292 Trier
+http://genver.de:  +49 (0) 2863-95697-90
+http://kulmens.de:  KULMENS - exklusive Designer Fashion / Mode in Landshut seit 1992   |   Altstadt 192-193, 84028 Landshut   |   Tel.: 0871 / 27 666 96
+http://bembeltown.de:  60487 Frankfurt am Main
+http://leon-nanodrugs.com:  leon-nanodrugs GmbH Kopernikusstrasse 9, D-81679 Munich Germany
+http://junges-uno-netzwerk.de:  Zimmermannstraße 26/27 - 10969 Berlin
+http://flugsam.de:  FLUGSAM Fruchtallee 23 D-20259 Hamburg
+http://elsa-frankfurt.de:  ELSA-Frankfurt (Oder) e.V. Große Scharrnstraße 59 15230 Frankfurt (Oder) Fax: +49 (0) 355 55 34 56 57 E-Mail: info{at}elsa-frankfurt.de
+http://voya.ai:  Voya GmbH , Stadthausbrücke 5, 20355 Hamburg
+http://brainseeker.de:  Brainseeker CONSULTING / Heinkel Experts GmbH & Co KG Deichstraße 1 20459 Hamburg
+http://container-xchange.com encountered an HTTP response status code: 403
+http://kwon.com:  Service: 08139 / 88 311
+http://bishop-gmbh.com:  Bishop GmbH – Aeronautical Engineers Aviation House Neuer Wall 46 20354 Hamburg Germany
+http://co2drybath.com:  UNITRONIC // Elektronische Steuergeräte GmbH // Steubenstrasse 3  // D 75249 Kieselbronn Telefon: +49 7231 95895-0 //  E-Mail: info@unitronic.net
+http://friedrichskoog.de:  Koogstraße 141 (Deichpassage) 25718 Nordseeheilbad Friedrichskoog-Spitze
+http://fame-creativelab.com:  fame creative lab Burgstrasse, 27 • 60316 • Frankfurt • Deutschland
+http://bzweic.de:  07021 738910
+http://photokina.de:  DE DE Element 13300 Element 12300 EN
+http://apartment-hotel.de:  Gültigkeit: 01.01.20203- 29.12.2024 (nur Online Buchbar)
+http://wende-ingenieure.com:  Wende GmbH Kreisstraße 51-55 58453 Witten
+http://klingel-med.de:  KLINGEL medical metal GmbH | Hanauer Straße 5-7 | 75181 Pforzheim, Deutschland
+http://connectivisten.de:  CONNECTIVISTEN GmbH Software Engineers Westhafenplatz 1 60327 Frankfurt am Main
+http://novostrat.com:  59830 Olszyna
+http://geco-event.com:  Kiesteichweg 21 68199 Mannheim
+http://caddycool.com:  AS:Lifestyle GmbH Gelldorfer Weg 42a DE 31683 Obernkirchen
+http://ideenpla.net:  In der Ötz 2, D - 85229 Markt Indersdorf
+http://fs-etit.de:  S3|10 Raum 105 Landgraf-Georg-Straße 4 64283 Darmstadt Tel.: 06151 1621860
+http://private-arbeitsagentur.eu:  Zeughausgasse 4 91154 Roth, DE
+http://schwimmbad-schmierer.de:  SCHWIMMBAD+WELLNESS Schaflandstraße 6 70736 FELLBACH bei Stuttgart
+http://per4med.de:  Adresse : Jüdenstr. 26; 13597 Berlin Telefon : +49 (0)30 35 1 35 450 E-Mail : info@per4med.de
+http://purchaze.com:  26607 Aurich ‐ Germany
+http://hausambergshepherds.com:  Contact: Patrick and Alishia Lockett | 9901 Brodie Land Suite 160-755, Austin, TX 78748 | info@hausambergshepherds.com
+http://innovative-navigation.de:  Leibnizstr. 11, 70806 Kornwestheim
+http://markengold.de:  Copyright © markengold PR GmbH, Torstraße 107, 10119 Berlin | realisiert von FOX mediatainment
+http://poggemoeller.co:  Poggemöller GmbH Saarstraße 7 80797 München
+http://corporate-karma.de:  Schlossbergring 15 79098 Freiburg +49 761 4589988
+http://intercard.org:  Marienstraße 10 D-78054 Villingen-Schwenningen Telefon: +49 7720 99450 E-Mail: info@secanda.com
+http://elsmannimmobilien.de:  Emmerich-Elten: 02828-92199
+http://bergmanclinics-klinikimpark.de:  +02103 896-0
+http://weigelworld.org:  weigel world Department of Molecular Biology Max Planck Institute for Developmental Biology D-72076 Tübingen, Germany Privacy Policy
+http://lacba.org encountered an HTTP response status code: 403
+http://postuning.com:  Am Zubringer 8 │ 32107 Bad Salzuflen │Germany +49 5222 36965-0 │ contact@postuning.com
+http://simple-fax.de:  15234
+http://frents.com:  Auf dieser Annahme haben wir frents aufgebaut und dafür im Laufe der Zeit Business Angel und über 20000 Nutzer dafür begeistert. Gleichzeitig haben wir jedoch auch festgestellt, dass das Problem, dass wir lösen wollten, insbesondere in unserem Umfeld nicht groß genug ist. Wir haben uns daher entschieden, die Plattform nach 10 Jahren vom Netz zu nehmen. Wir danken unseren treuen Nutzern, deren Daten wir GDPR / DSGVO konform löschen. Wir haben zwischenzeitlich viel Erfahrung gesammelt und diese zum einen in das Startup Styla.com und in das Berliner Chapter des Idea Stage Accelerators Founder Institute eingebracht.
+http://medialab-internetagentur.de:  Achim WeidnerHaßlocher Straße 7365428 Rüsselsheim am MainTelefon: 06142 796066 | Mobil: 0171 2873977 post@achim-weidner.de
+http://sternen-schluchsee.de:  07656 / 9887-0
+http://cpl-sachse.de:  CPL Sachse Stieffring 14 13627 Berlin Tel: +49 30 343462-60 Fax: +49 30 343462-69 info@cpl-sachse.de
+http://seat.de:  Abbildungen zeigen Sonderausstattungen. Die aufgeführten Ausstattungen sind abhängig von Modell sowie Modellvariante erhältlich. Alle Preisangaben verstehen sich als unverbindliche Preisempfehlung der SEAT Deutschland GmbH, Max-Planck-Str. 3-5 in 64331 Weiterstadt zzgl. Überführungs- und Zulassungskosten. ¹ ©2023 Seven.One Entertainment Group GmbH, Lizenz durch: Seven.One Licensing, www.seven.one ™ and ©2023 ITV Studios Netherlands Content BV. Licensed by ITV Studios ⁷ Den Rabatt in Höhe von 15% auf den Umsatz mit ausgewählten SEAT Original Teilen® erhalten Privatkunden mit einem mindestens 4 Jahre alten SEAT Fahrzeug bei Wartungs- und Verschleißreparaturen (ohne Reifen) bis zum 30.06.2023. Der Abzug von bis zu 150 € (brutto) auf einen Umsatz von max. 1.000 € (brutto) erfolgt auf der Rechnung. Ausgenommen sind Flüssigkeiten wie Öl, Frostschutz, Werkstattkleinteile. Nicht mit anderen Rabattaktionen oder -angeboten kombinierbar. Nur 1x je Fahrgestellnummer im Aktionszeitraum nutzbar. Weitere Informationen bekommst bei deinem SEAT Partner. * Die angegebenen Verbrauchs- und Emissionswerte wurden nach dem gesetzlich vorgeschriebenen WLTP-Verfahren (Worldwide Harmonized Light Vehicles Test Procedure) ermittelt, das ab dem 1. September 2018 schrittweise das frühere NEFZ-Verfahren (neuer europäischer Fahrzyklus) ersetzte. ** Der SEAT MÓ 50 ist ein Kleinkraftrad (45km/h) und kann in Deutschland mit der Führerscheinklasse AM bereits ab 15 Jahren sowie den Führerscheinklassen A1,A2, A und B, mit Helmpflicht, innerhalb von Deutschland gefahren werden. Der Gesetzgeber arbeitet an einer Novellierung der Pkw-EnVKV und empfiehlt in der Zwischenzeit für Fahrzeuge, die nicht mehr auf Grundlage des NEFZ-Verfahrens homologiert werden können, die Angabe der WLTP-Werte, welche wegen der realistischeren Prüfbedingungen in vielen Fällen 
+höher sind als die nach dem früheren NEFZ-Verfahren. Informationen zu den Unterschieden zwischen WLTP und NEFZ finden Sie unter www.seat.de/ueber-seat/wltp-standard.html . Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen, spezifischen CO₂-Emissionen neuer Personenkraftwagen können dem „ Leitfaden über den Kraftstoffverbrauch, die CO₂-Emissionen und den Stromverbrauch neuer Personenkraftwagen “ entnommen werden, der an allen Verkaufsstellen und bei der DAT Deutsche Automobil Treuhand GmbH, Hellmuth-Hirth-Str. 1, D-73760 Ostfildern-Scharnhausen oder unter www.dat.de unentgeltlich erhältlich ist.
+http://hbo2.de:  79104 Freiburg
+http://laufpix.de:  sebamed Mailauf Boppard 17. Mai 2023, 56154 Boppard
+http://kuriershop.de:  © 2004-2022 STARK GmbH, 61440 Oberursel
+http://himmelspagode.de:  Oranienburger Straße 3 16540 Hohen Neuendorf Fon: 03303 – 21 27 0
+http://europarc.org:  93047
+http://regupol.com:  Am Hilgenacker 24 57319 Bad Berleburg Germany
+http://miet24.de:  Land Rover Discovery Sport P250 R-Dyanmic SE* 10711 Berlin 1.029,00 € /Mo nat
+http://brandperfection.de:  Brandperfection GmbH, Wagnerstraße 32, 70734 Fellbach
+http://borgmann-krefeld.de:  ² Abb. zeigt ggf. Sonderausstattung. Ein Angebot der Volkswagen Leasing GmbH, Gifhorner Straße 57, 38112 Braunschweig. Nähere Infos im Verkauf. Alle Werte zzgl. gesetzl. MwSt. zzgl. Überführung und Zulassung. Kraftstoffverbrauch; innerorts: 7,8 l/100 km, außerorts: 5,9 l/100 km, kombiniert: 6,6 l/100 km, CO2-Emissionen kombiniert: 150 g/km, Energieeffizienz: A
+http://chameleon-system.de:  79098
+http://ho-ersoka.de:  Hotline: 08731/74032071
+http://plu.de:  T +49 (0)89 2323 9169-0 F +49 (0)89 2323 9169-1 E mail@plu.de Landsberger Straße 392 (1. OG) D 81241 München
+http://reiseservice-heinz.de:  Dann reich uns bitte Deine aussagekräftigen Bewerbungsunterlagen unter Angabe Deiner Gehaltsvorstellung und deines frühestmöglichen Eintrittsdatums – am besten direkt per E-Mail – ein. Reise Service Heinz Heinrich Heinz Landshuter Str. 16 85368 Moosburg E-Mail: Diese E-Mail-Adresse ist vor Spambots geschützt! Zur Anzeige muss JavaScript eingeschaltet sein!
+http://pferdebild.de:  Copyright © 2023 + Tammo & Hanni Ernst, Heider Weg 42, 27777 Ganderkesee E-Mail: tammo.ernst @ pferdebild.de + hanni.ernst @ pferdebild.de
+http://aqon-pure.com:  +49 (0) 6251 / 59308-0
+http://berlinlofts.com:  10559
+http://porsche-design.com:  +49 711 911 75550 (outside Germany)
+http://bowlers-inn.de:  Pasadenaallee 15, 67059 Ludwigshafen am Rhein, Germany
+http://kobra-net.de:  07152 / 56 94 180
+http://abcadamas.de:  +03222 1095665
+http://trelock.de:  TRELOCK GmbH Johann-Krane-Weg 37 D-48149 Münster
+http://impreg.de:  Europe  +49 7073 30031-0
+http://lieblingstasche.de:  Haben Sie Fragen? Sie erreichen uns unter: 07531 / 921 8207 Mo-Fr, 09:00 - 17:00 Uhr service@lieblingstasche.de
+http://dokdoor.com:  06182 / 3039
+http://datac-gmbh.de:  q.beyond Consulting Solutions GmbH • Max-von-Laue-Straße 9 • 86156 Augsburg Telefon: +49 (821) 420 90-0 • Fax: +49 (821) 420 90-111 • E-Mail: Kontakt
+http://kompakt.fm:  GR-12105
+http://shows-artists.com:  Werinherstr. 45 81541 München Deutschland
+http://delphi-advisors.com:  Kaiserstrasse 22, 60311 Frankfurt am Main, Germany
+http://jk-kom.de:  Die vergangenen Jahre haben die Arbeitswelt stark bewegt und auch bei JK viel verändert. Die Chancen, die sich daraus ergeben haben, haben wir genutzt. Gemeinsam als ein Team sind wir in den Dialog getreten und haben Ansprüche und Wünsche an das neue Büro priorisiert. Wir können nun stolz sagen, dass wir so ein Bürokonzept entwickelt haben, das alle Bedürfnisse an eine funktionale und moderne Arbeitsumgebung erfüllen. Unsere neue Adresse ist die Oberwallstraße 6, 10117 Berlin.
+http://schmeckthal-gruppe.de:  Gewerbegebiet Petersweg Fritz-Ullmann-Straße 4 55252 Mainz-Kastel
+http://bc-diagnostics.com:  Local to California: 1-805-388-8007 US/Latin Am: 1-888-HYGIENA (1-888-494-4362) Canada 1-833-Hygiena (1-833-494-4362) International: +44 (0) 1923 818821 China: +86 21 513 21081 Spain: +34 954 08 12 76 Submit Tech Support Request
+http://rbvc.com:  Mittlerer Pfad 2, 70499 Stuttgart-Weilimdorf, Germany
+http://airnergy.shop:  Der "Little Atmos" ist unser neuestes Gerät und verfügt erstmals über die neuen Dual Aktivierungseinheiten von AIRNERGY. Die empfohlene regelmäßige Anwendungsdauer beträgt 21 - 40 Minuten. Selbstverständlich wurde auch der Little Atmos nach dem "Goldenen Schnitt" konstruiert. Gerne beraten wir Sie auch telefonisch unter der Telefonnummer 02242 93300 an.
+http://cmc-silenta.com:  CMC&Silenta / Im Glaser 31 / 79111 Freiburg / Germany
+http://spanndeckenstudio.de:  07141 - 924214
+http://esome.com:  20354 Hamburg
+http://xell.ag:  Xell AG Alte Verler Strasse 1 33689 Bielefeld Germany
+http://hitchon.de:  55120 Mainz
+http://dts.de:  D - 32051 Herford
+http://claritos.de:  Große Theaterstr. 7, 20354 Hamburg
+http://schnatterer.com:  90000
+http://hochschwarzwald.de:  Hochschwarzwald Tourismus GmbH Freiburger Straße 1 · 79856 Hinterzarten
+http://severn.de:  5. April 2023 5. Forum Finanzmarktregulatorik, das Forum für Finanzprofis 2023
+http://mehrfachsparen.de:  Copyright 2023 | Lutz Müller | Hauptstr. 5 | 06888 Lutherstadt Wittenberg Tel.: 03491 7691086 | Fax: 03491 6519963 | info@mehrfachsparen.de | Alle Rechte vorbehalten Erstinformation nach §15 VersVermV und §12 FinVermV (als PDF anzeigen / herunterladen)
+http://visionconnect.de:  +49 511 76071 110
+http://antondoll.de:  Lilienstr. 3-5 81669 München Deutschland
+http://hohnwerbetechnik.com:  Verwaltung: Klingenberger Straße 4 - 74223 Flein
+http://redmarketing.de:  Redmarketing GmbH SEO & MARKETING Agentur Berlin - REDMARKETING Rankestraße 2 10789 Berlin Deutschland Email: kontakt [AT] redmarketing.de Telefon: +49(0)30 232 55 74 77 Öffnungszeiten: Montag - Sonntag 8:00 - 00:00 Uhr
+http://kmbmedia.de:  02381 871 09 60 (Hamm)
+http://lps-laser.de:  72131 Ofterdingen / Deutschland
+http://ihs-gmbh.de:  71522
+                                                                               Backnang
+http://wiedemann.de:  Sollten Sie noch keinen ONLINE-Shop Zugang besitzen, nutzen Sie unsere Registrierung oder wenden sich telefonisch an 05066 997-100.
+http://artaqua.de:  +49 7147 27273 100
+http://modus-werbung.de:  Adresse Neuer Kamp 30, 20357 Hamburg
+http://horizont.com:  Homberger Weg 4-6 34497 Korbach Deutschland
+http://alpha-communication.com:  Kumpfmühler Straße 30 93051 Regensburg, Germany
+http://china-outbound.com:  COTRI China Outbound Tourism Research Insititute Nordkanalstr. 52, 20537 Hamburg Germany
+http://gfn.de:  06221 77 333 33
+http://scoop-yard.de:  Hoheluftchaussee 40A 20253 Hamburg Telefon: 040 51315539
+http://lagerflaeche.de:  Suche Gefahrgutlager 14974 Ludwigsfelde (Mercedes-Benz)
+http://uhlmann.de:  Uhlmann Pac-Systeme GmbH & Co. KG Uhlmannstraße 14 - 18 88471 Laupheim www.uhlmann.de
+http://dervizz.com encountered an HTTP response status code: 403
+http://ps-antriebstechnik.de:  D-76698 Ubstadt-Weiher
+http://starface.com:  76137 Karlsruhe
+http://fgk-cro.com:  Heimeranstrasse 35 80339 Munich · Germany
+http://alvi.de:  Pfennigbreite 44, DE-37671 Höxter
+http://frenzelit.com:  Frenzelit GmbH 95460 Bad Berneck Deutschland
+http://sea-distribution.com:  +49 5903 9388-00000
+http://rheinfabrik.de:  Rainer - 18. Februar 2021 0
+http://mfg.de:  0711 90715-300 info@mfg.de
+http://fastbolt.com:  Fastbolt Group Am Königsweg 4 D-48599 Gronau
+http://hils-it.com:  hils IT Rottweiler Str. 16 78078 Niedereschach info@hils-it.com
+http://fesa.de:  Gerberau 5A 79098 Freiburg
+http://ms-holz.de:  Borsigstraße 42-44, 65205 Wiesbaden-Nordenstadt (am Kreisel zum Neubaugebiet Hainweg)
+http://visomax.de:  Visomax Coating GmbH Dachdeckerstr. 2 - 4 D-97297 Waldbüttelbrunn Germany Tel.: +49 931 452814 0 Fax: +49 931 452814-29
+http://stefan-plenk.com:  Copyright 2023 | Stefan Plenk | Dr.-Imhof-Str. 6 1/2 | 83471 Berchtesgaden Tel.: 08652-964970 | info@stefan-plenk.de | Alle Rechte vorbehalten Erstinformation nach §15 VersVermV (als PDF anzeigen / herunterladen)
+http://lufapak.de:  Lufapak GmbH Carl-Borgward-Straße 20 56566 Neuwied – Germany
+http://pulscamp.de:  16400
+http://unwomen.de:  Universitätsclub Bonn, Konviktstraße 9, 53113 Bonn
+http://slf-fraureuth.de:  Fabrikgelände 5 08427 Fraureuth, Germany T +49 3761 801 0 F +49 3761 801 150 slf@slf-fraureuth.de
+http://weareforeal.com:  FOREAL® GbR Seizstraße 2-4, 54290 Trier, Germany
+http://jungmann.de:  JST – Jungmann Systemtechnik GmbH & Co. KG Bahnhofstr. 48-50 D-21614 Buxtehude
+http://sobis.com:  SOBIS Software GmbH Fraunhofer Str. 8 68309 Mannheim Deutschland
+http://prehkeytec.com:  Scheinbergweg 10 D-97638 Mellrichstadt Phone: +49 9776 7046-0 Fax: +49 9776 7046-199 info[at]prehkeytec.com
+http://testboy.de:  Seit mehr als 70  Jahren bietet Testboy Messgeräte und Prüfgeräte für die unterschiedlichsten  Anwendungsbereiche und Einsatzzwecke und hat sich aufgrund der stets  gewährleisteten höchstmöglichen Produktsicherheit in Kombination mit maximaler  Anwenderfreundlichkeit auf dem Markt der Messtechnik und Prüftechnik international etabliert. Testboy Produkte stehen für Robustheit und Langlebigkeit, für Innovation und moderne Ansprüche  sowie für Sicherheit und Qualität. Funktionalität und  Praxisorientierung werden bei den professionellen Mess- und Prüfgeräten geschickt kombiniert, sodass sie gut in der Hand liegen, leicht zu bedienen sind und selbst unter  weniger optimalen Arbeitsbedingungen zuverlässige Test- und Messergebnisse abliefern. Produkte mit  den Bezeichnungen Testboy und Testavit Schuki sowie das passend dazu erhältliche Zubehör, stehen seit Jahren für Innovationen  und fortschrittliche Entwicklungen, die TÜV-/GS-geprüft und zugelassen sind sowie der international gültigen Norm IEC/EN 61010-1 für  die Sicherheit von elektrischen Mess-, Regel- und Steuergeräten entsprechen. Ob  für Stromkreise, die elektrisch direkt mit dem Netz verbunden sind, für  Gebäudeinstallationen, für Nutzfahrzeuge oder für andere Einsatzzwecke -  Testboy Prüfgeräte und Messgeräte sind die erste Wahl, wenn 
+es um zuverlässige und sichere Test-, Prüf- und  Messetechnik handelt.
+http://gid-it.de:  +49 (0) 821 25849 30
+http://bonn.de:  Bundesstadt Bonn Berliner Platz 2 53103 Bonn (Postanschrift) 53111 Bonn (Hausanschrift)
+http://cheplapharm.com:  CHEPLAPHARM Arzneimittel GmbH Ziegelhof 24 17489 Greifswald
+http://pernetix.de encountered an HTTP response status code: 500
+http://drivedevilbiss-int.com:  Drive DeVilbiss International DeVilbiss Healthcare GmbH Kamenzer Straße 3 68309 Mannheim Germany Phone DE: +49 (0) 621 178 98- 0 Phone UK: +44 (0) 121 521 3140 kontakt@devilbisshc.com
+http://pyrotechnik24.com:  pyrotechnik24.com Rigistraße 10 D-12277 Berlin
+http://calw.de:  Marktplatz 7 75365 Calw
+http://thestrategyweb.com:  The Strategy Web GmbH St. Ulrich Str. 3c, 86922 Eresing, Tel. 08193-9974127 Mob.: +49 (0)171-9577828
+http://cosmetix.net:  82538 Geretsried / Germany
+http://digitaleheimat.de:  digitaleheimat GmbH Mehringdamm 34 10961 Berlin
+http://dexter-international.com:  Colmarer Straße 5 D-60528 Frankfurt
+http://neuromerchandisinggroup.com:  14468
+http://rw-kupplungen.de:  R+W Antriebselemente GmbH Hattsteinstraße 4 63939 Wörth am Main Germany
+http://smartmedia24.de:  Rufen Sie uns an unter 02373 76066-0 oder lassen Sie uns über unser Kontaktformular eine Nachricht zukommen.
+http://webanizer.de:  Impressum: WEBanizer AG, Schulgasse 5, D-84359 Simbach am Inn Registergericht: Amtsgericht Landshut HRB 5177 - Ust. ID.: DE 2068 62 070 Vorstand: Ottmar Neuburger (Vorsitz) - Aufsichtsrat: Tobias Neuburger (Vorsitz)
+http://h2fly.de:  70327 Stuttgart
+http://targetesports.com:  Vestische Str. 123, 46117 Oberhausen North Rhine-Westphalia, Germany +49 (0)176 555 29 886 info@targetesports.com
+http://bureau-heintz.de encountered an HTTP response status code: 500
+http://christengemeinde.com:  Stadtring 44, 48527 Nordhorn info@christengemeinde.com
+http://fernbus24.de encountered an HTTP response status code: 500
+http://jena-optronik.de:  Jena-Optronik GmbH Otto-Eppenstein-Straße 3 07745 Jena - Germany
+http://bae-berlin.de encountered an HTTP response status code: 403
+http://modusconsult.de:  33334 Gütersloh
+http://conflict-minerals.com:  +49 7121 14489 777
+http://artviper-werbeagentur.de:  Inhaberin: Laila Sonntag Türlgasse 18 92637 Weiden in der Oberpfalz
+http://fertighaus-keitel.de:  Reubacher Straße 23 74585 Rot am See Brettheim
+http://boerse-stuttgart.de:  Verantwortlicher für die Verarbeitung personenbezogener Daten ist die Boerse Stuttgart GmbH Börsenstraße 4 70174 Stuttgart Tel.: +49 711 222985 - 0 Website: www.boerse-stuttgart.de E-Mail: info@boerse-stuttgart.de
+http://ecco-reisen.de:  Heuerstr. 6, 30519 Hannover
+http://crystalage.com:  +44333 012 4687
+http://inovix.net:  01332 417633
+http://newfield.co.uk:  Tel: 01270 762331
+http://dscsoundandlighting.co.uk:  01582 606066
+http://classichandtools.com encountered an HTTP response status code: 503
+http://sentiment.io:  UT 84101,
+http://bergsonandeaton.com:  01296 415 251
+http://vasek.co.uk encountered an HTTP response status code: 403
+http://rgr-garages.co.uk:  Tel: 01234 750207 Cranfield MK43 0DG, 10 Minutes from Bedford & Milton Keynes
+http://profit-loss.com had a BaseException as Cannot connect to host profit-loss.com:80 ssl:default [getaddrinfo failed]
+ http://farshidmoussaviarchitecture.com had a BaseException as Cannot connect to host farshidmoussaviarchitecture.com:80 ssl:default [getaddrinfo failed]
+ http://digitaleyesmedia.co.uk had a BaseException as Cannot connect to host digitaleyesmedia.co.uk:80 ssl:default [getaddrinfo failed]
+ http://m2msecuritysims.com had a BaseException as Cannot connect to host m2msecuritysims.com:80 ssl:default [getaddrinfo failed]
+ http://balkongmobler-guide.com had a BaseException as Cannot connect to host balkongmobler-guide.com:80 ssl:default [getaddrinfo failed]
+ http://futurumltd.co.uk had a BaseException as Cannot connect to host futurumltd.co.uk:80 ssl:default [getaddrinfo failed]
+ http://b-r.co.uk had a BaseException as Cannot connect to host b-r.co.uk:80 ssl:default [getaddrinfo failed]
+ http://marketingunity.com had a BaseException as Cannot connect to host marketingunity.com:80 ssl:default [getaddrinfo failed]
+ http://spreadgoodvibes.co.uk had a BaseException as Cannot connect to host spreadgoodvibes.co.uk:80 ssl:default [getaddrinfo failed]
+ http://daymer.com had a BaseException as Cannot connect to host daymer.com:80 ssl:default [getaddrinfo failed]
+ http://mailsure-it.com had a BaseException as Cannot connect to host mailsure-it.com:80 ssl:default [getaddrinfo failed]
+ http://dhsigns.co.uk had a BaseException as Cannot connect to host dhsigns.co.uk:80 ssl:default [getaddrinfo failed]
+ http://hochschildmining.com had a BaseException as Cannot connect to host hochschildmining.com:80 ssl:default [getaddrinfo failed]
+ http://cassette2cd.co.uk had a BaseException as Cannot connect to host cassette2cd.co.uk:80 ssl:default [getaddrinfo failed]
+ http://newbridgegreen.com had a BaseException as Cannot connect to host newbridgegreen.com:80 ssl:default [getaddrinfo failed]
+ http://rachaeltroughton.com had a BaseException as Cannot connect to host rachaeltroughton.com:80 ssl:default [getaddrinfo failed]
+ http://hevva.co.uk had a BaseException as Cannot connect to host hevva.co.uk:80 ssl:default [getaddrinfo failed]
+ http://cjei.co.uk had a BaseException as 'utf-8' codec can't decode byte 0xa9 in position 4035: invalid start byte
+ http://practicalpoetry.co.uk had a BaseException as Cannot connect to host practicalpoetry.co.uk:443 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'practicalpoetry.co.uk'. (_ssl.c:997)")]
+ http://holiday-home-rentals.co.uk had a BaseException as 'utf-8' codec can't decode byte 0xe9 in position 9003: invalid continuation byte
+ http://atranubesstudio.co.uk had a BaseException as Cannot connect to host atranubesstudio.co.uk:80 ssl:default [getaddrinfo failed]
+ http://neudrive.com had a BaseException as Cannot connect to host neudrive.com:443 ssl:default [None]
+ http://acecic.co.uk had a BaseException as Cannot connect to host acecic.co.uk:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)')]
+ http://nucleargrads.com had a BaseException as Cannot connect to host nucleargrads.com:443 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nucleargrads.com'. (_ssl.c:997)")]
+ http://hackaball.com had a BaseException as Cannot connect to host www.hackaball.com:80 ssl:default [getaddrinfo failed]
+ http://livinghouse.co.uk had a BaseException as Cannot connect to host livinghouse.co.uk:443 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'livinghouse.co.uk'. (_ssl.c:997)")]
+ http://kuchedesign.co.uk had a BaseException as Server disconnected
+ http://scandinavianloft.com had a BaseException as Cannot connect to host scandinavianloft.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)')]
+ http://hicksandhicks.com had a BaseException as Cannot connect to host hicksandhicks.com:443 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'hicksandhicks.com'. (_ssl.c:997)")]
+ http://poppycottages.co.uk had a BaseException as Cannot connect to host www.ivyfarmcottages.co.uk:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)]
+ http://water-garden.co.uk had a BaseException as 'utf-8' codec can't decode byte 0xe2 in position 157683: invalid continuation byte
+ http://bandbinnovations.co.uk had a BaseException as Cannot connect to host bandbinnovations.co.uk:80 ssl:default [The semaphore timeout period has expired]
+ http://thefundingco.co.uk had a BaseException as Cannot connect to host thefundingco.co.uk:80 ssl:default [The semaphore timeout period has expired]
+ http://pirean.com had a BaseException as Cannot connect to host pirean.com:80 ssl:default [The semaphore timeout period has expired]
+ http://marlinservices.co.uk had a BaseException as Cannot connect to host www.marlinservices.co.uk:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)')]
+ http://mooresecure.co.uk had a BaseException as Cannot connect to host mooresecure.co.uk:80 ssl:default [The semaphore timeout period has expired]
+ http://rostrevorholidays.com had a BaseException as Cannot connect to host rostrevorholidays.com:80 ssl:default [The semaphore timeout period has expired]
+ http://obsidianir.com had a BaseException as Cannot connect to host obsidianir.com:80 ssl:default [The semaphore timeout period has expired]
+ http://moheri.gov.om had a BaseException as Cannot connect to host moheri.gov.om:443 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'moheri.gov.om'. (_ssl.c:997)")]
+ http://slikmedia.co.uk had a BaseException as Cannot connect to host slikmedia.co.uk:443 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'slikmedia.co.uk'. (_ssl.c:997)")]
+ http://milnecraig.co.uk had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://queensberryrealestate.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://hivepharmacy.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://crosslanehouse.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://thorntonlodgenorthyorkshire.co.uk had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://samstransport.co.uk had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://birdbrand.co.uk had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://sure-line.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://avcon.co.uk had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://sixteenfeet.co.uk had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://verveproductions.co.uk had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://acmmosconsultancy.co.uk had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://satchiuk.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://hcpautomotive.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://millwoodeducation.co.uk had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://essexcommunityfoundation.org.uk had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://birminghamgymclub.org.uk had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://nuvoteq.cloud had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://sixphysio.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://martinsfarmmarket.net had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://animalstory.co.uk had a BaseException as Server disconnected
+ http://stonebridgegolf.co.uk had a BaseException as Cannot connect to host stonebridgegolf.co.uk:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)')]
+ http://tojoandnellyscattales.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://pollock.co.uk had a BaseException as 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url=URL('https://www.pollock.co.uk/')
+ http://gleanin.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://bannerfy.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://rmsrecruitment.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://metricell.com had a BaseException as [WinError 10053] An established connection was aborted by the software in your host machine
+ http://rbkc.gov.uk had a BaseException as Cannot connect to host www.rbkc.gov.uk:2177 ssl:default [The semaphore timeout period has expired]
+http://fordandslatercoventry.co.uk:  02476 302 856
+http://laywheeler.com:  We're currently transitioning all wines to our new fine wine cellar. During this period, your order may arrive in more than one delivery. Please let us know if you have any specific delivery instructions either at checkout or by getting in touch directly - 01473 313 233 or [email protected]
+http://crg1.co.uk:  Telephone: 07708 956 652
+http://mcvideo.co.uk:  Video Transfer Specialist 01978 350122
+http://aberdeenpattestservices.com:  Inverurie Office T: 01467 290010
+http://cambriancruisers.co.uk:  Jonathan & Camilla, Cambrian Cruisers, Ty Newydd, Pencelli, Brecon LD3 7LJ   | Tel: 01874 665315   | Email us
+http://joolsstone.com:  Feel free to give me a call on the good, old fashioned dog and bone: 07804 151654
+http://themartialartscentre.com:  01376 529122 / 07967 490968
+http://interchangepd.com:  Request a Quote | Call Us 01629 259668 | Sign Up For Our Newsletter
+http://kjnhomeimprovements.co.uk:  T: 01329 237 715
+http://derby-exp.co.uk:  01332 646100
+http://ebrattridge.com:  Tottenham 430-436 High Road, N17 9JB Tel: 020 8808 0774 DX: 58500 Tottenham -1
+http://standard-alarms.com:  Tel: 01670 364832 - Email: sales@standard-alarms.co.uk - Address: 51 Bowes St, Blyth, Northumberland, NE24 1EB
+http://humphreyfeedsandpullets.co.uk:  .... CUSTOMER SERVICES: .. YMHOLIADAU: .... Twyford 01962 764510 | Llansantffraid: 01691 828512
+http://sharondavidson.co.uk:  07712 210436
+http://perfectprofilesclinics.co.uk:  01582 518 100
+http://thechilespecialists.com:  All monies paid by you for the air holiday package shown [or flights if appropriate] are ATOL protected by the Civil Aviation Authority. Our ATOL number is 10286 . For more information see our booking terms and conditions OR go to their web site at http://www.caa.co.uk/application.aspx?catid=490&pagetype=65&appid=2 and, if you would like to check on us then put in our registered number, 10286, into their finder service... (you just need the number)
+http://tamba.co.uk:  01543 758188
+http://kcrtransport.co.uk:  CALL: 01283 240245
+http://yazda.org:  Lincoln, Nebraska 68503, USA +1 (832) 298-9584 info@yazda.org
+http://hankinson.co.uk:  03300 532355
+http://deediganmartialarts.co.uk:  Disney Princess Fashion 65679 Princess Friends 100% Cotton Fabric By The Yard -New in Box
+http://mathews.co.uk:  Call us NOW!!! Telephone : 01392 203333
+http://lewisashleygroup.com:  01482 815310
+http://retreathousepleshey.com:  Call: 01245 237251
+http://nationalgridusaco.com encountered an HTTP response status code: 404
+http://osadoorparts.co.uk:  To order please call: 01928 703 580
+http://kgd.co.uk:  KGD Netherwood Road Rotherwas, Hereford HR2 6JU Tel: +44 01432 374 374 Email: sales@kgd.co.uk
+http://maclarenjones.com:  Call us 01565 624 380
+http://optilan.com:  Press Release Demonstrating our commitment to quality, accountability and continuous improvement with our ISO renewal success 23rd September 2021 Optilan, leading security and communications specialist, has been re-certified against the Internationally recognised ISO 9001, 14001 standards that ensures services meet client... Read More
+http://paynes-heating.co.uk:  Got a Plumbing Emergency? Call us now: 01825 891720
+http://candooconcierge.com:  M. 07595 434 644 | candooconcierge@btinternet.com
+http://chequermead.org.uk:  Use these pages to navigate around our calendar of events which are being added all the time, so make sure you check back regularly to ensure you don’t miss out on our excellent programme. To book tickets or for more information call the 
+Box Office on 01342 302000 or visit our contact page for other ways to get in touch.
+http://digipress.co.uk:  01792 456661 hello@bdp.wales Quote
+http://renaultalpine.co.uk:  Total posts 98508 • Total topics 9592 • Total members 2254 • Our newest member Paul Watts
+http://threlfallart.co.uk encountered an HTTP response status code: 404
+http://w-co.co.uk:  Call us now 01708 863 260 Email us [email protected]
+http://jr-roofing.co.uk:  01462 422 300
+http://bjcplanning.co.uk:  01329 842668
+http://nuplansurveys.com:  To discuss your needs or book an appointment please contact us using our online form , alternatively you can email info@nuplansurveys.com , or call us 07970 205 847 .
+http://frostsgardencentres.co.uk:  WOBURN SANDS Open today - 09:00 until 18:00 01908 583511 MK17 8UE
+http://sandbbuilders.co.uk:  07881 597825
+http://auduskitchens.co.uk:  sales@auduskitchens.co.uk St Albans: 01923 670 197 Wokingham: 0118 973 2929
+http://standardgroup.co.uk:  01536 517 070
+http://gews.co.uk:  01766 771159 | 0800 3282801
+http://reflexgroup.co.uk:  £62000 - £72000 per annum + Car Allowance  + Bens
+http://cgoecology.com:  01202 798126
+http://halothermalimaging.co.uk encountered an HTTP response status code: 500
+http://cornerstone.photography:  Call now 07828 606184
+http://watkinspayne.co.uk:  Surrey 01932 781 641
+http://london-ghost-tour.com:  London Ghost Walks With Richard Jones PO Box 53131 London E18 1UW
+http://stone-zone.uk:  Call us on 01202 874207
+http://corporateentertainmentco.co.uk:  01825 760065
+http://ukindustrialflooring.co.uk:  01978 790186
+http://spinal-physiotherapy.com:  Clinic: 01772 471481 / Mobile: 07789 077008
+http://urbanescape.co.uk:  Call 01484 424244 Now
+http://burgessyachts.com:  +91 98211 67253
+http://partydoctors.co.uk:  01732 866666 hello@partydoctors.co.uk
+http://armchairmarketing.co.uk:  Call: 01604 879657
+http://soulbrother.com:  (12574)
+http://pdq1.com:  PC6-18030 DYNOJET PC6 KTM 690 SMC / 690R ENDURO 2019-2020 (FUEL & IGNITION) £455.66 2 In Stock
+http://pinehills.com:  33 Summerhouse Drive   •   Plymouth, MA 02360 Open by appointment Wednesday–Sunday, 10am–4pm 888.209.8880
+http://allawayacoustics.co.uk:  Tel: 01992 550825 enquiries@allawayacoustics.co.uk
+http://greentimber.com:  Tel: +44 01279 725200
+http://stcltd.co.uk:  01442 252051
+http://pelgar.co.uk:  +44 (0) 1420 80744
+http://belhavensmokehouse.co.uk:  Call us: 01368 864 025 Email us: sales@belhavensmokehouse.co.uk
+http://qxlva.com:  As well as holding the NHS Data Security and Protection Toolkit, Quicksilva is ISO 27001, ISO 9001 and Cyber Essentials Plus Certified.
+http://deborahedwardsdesign.co.uk:  07968 160 667
+http://holdsworthchocolates.co.uk:  01629 813 573
+http://swaleviewpark.co.uk:  e. info@swaleviewpark.co.uk t. 01748 823106
+http://adboards.com:  01204 395 730
+http://edwardbulmerpaint.co.uk:  01544 388 535
+http://dentalmarketingexpert.co.uk:  01767 626398
+http://mjexecutivecars.co.uk:  MJ Executive Car Hire offer Executive Car Hire, Chauffeur Driven Car Hire and an Airport Transfer service to Business People, Celebrities and the General Public. We operate across Hemel Hempstead, Berkhamsted, Harpenden, St Albans, Luton, Kings Langley and London to name just a few of the areas we cover. For more information on our services please give us a ring today and we’ll be happy to answer any of your questions. Call 01442 400 475 or send us an email using the form below.
+http://codelife.org:  T: (01246) 452483
+http://devoted2home.co.uk:  01482 665581
+http://entrustit.co.uk:  ISO 27001
+http://yourofficeandpa.co.uk:  Call us today on: 01928 508 800
+http://dmb.uk.com:  07887 802726 (9:00-16:00)
+http://carlypress.co.uk:  01823 667063
+http://whiteshadowweddingfilms.com:  07825 229 237
+http://hiteluk.com encountered an HTTP response status code: 404
+http://marlboroughhousetherapycentre.co.uk:  Enquires - 01823 272 227
+http://whiltonmill.co.uk:  Call 01327 843822
+http://redbluemechanical.co.uk:  Mechanical Contractors for London and the South East Call: 01344 203085 Email: info@redbluemechanical.co.uk
+http://thelionatfarnsfield.com:  01623 883566 Main Street - Farnsfield - Newark - Notts - NG22 8EY
+http://pier64.co.uk:  Posted on 13 พฤศจิกายน 2022 7 พฤศจิกายน 2022
+http://ipmpestcontrol.co.uk:  Our technicians assess the extent of the problem, laying baits or traps where necessary. Baits and traps need to be checked regularly and the materials removed at the end of each treatment. There are ‘over the counter’ poisons which can be purchased by the general public. However, we would recommend you contact us on 01992 763 776 to treat this pest as we would implement our E.R.D principle and make sure to the best of our ability that they don’t come back and cause you further distress or damage. Please call us on 01992 763 776 if you have a rat problem
+http://zendrillscaffolding.co.uk:  Tel 01634 268880
+http://richfieldsfirth.co.uk:  Telephone: 01737 - 649900 E-mail: [email protected]
+http://lollie.co.uk encountered an HTTP response status code: 404
+http://thermometersdirect.co.uk:  Secur SP-4005 Emergency Flashlight / Torch & Powerbank 10000 €40.30 €23.03 More Info Add to Basket
+http://lincolnhotel.co.uk:  Book now or call 02920 395558
+http://harlowsalvationarmy.org.uk:  Phone: 01279 441 581
+http://pelicanprocurement.co.uk:  01252 705 200
+http://instantasp.co.uk encountered an HTTP response status code: 404
+http://pandr.online:  01302 822444
+http://josephandkhansolicitors.com:  Call Us on 01422 648666
+http://thevoipshop.co.uk:  Phone: +44116 243 8426
+http://architecturalplants.com:  01798 879213
+http://oxwichwatersports.co.uk:  TEL: 07740 284 079
+http://castang-wines.co.uk:  For more information please contact Tel: 01503 220359 Email: sales@castang-wines.co.uk
+http://chestnutcaregloucester.co.uk:  Bibi Junglee (Care Manager) 07807 424228
+http://classicbikepartscheshire.com:  Sales & Advice Call 01270 520139
+http://consysequip.com:  Control Systems and Equipment is no longer trading. Please call CSE Distributors on 01628 529448.
+http://nicheworks.co.uk:  This is where you will find our clients’ latest press releases as well as marketing and PR tips and features. If you are a member of the media and require further information, images or an interview set up please get in touch on 07900 605674.
+http://thinkvideo.net:  Tel: (01743) 624084
+http://oakover.co.uk:  01934 620125
+http://noisegatemedia.com:  T: 01926 330135
+http://balconyshirts.co.uk:  01895 239111
+http://butlerz.co.uk:  Telephone: 01428 713026
+http://destinyentertainments.net encountered an HTTP response status code: 503
+http://pmkcivilengineering.com:  PMK attained accreditation to the ISO 9001, ISO 14001 and OHSAS 18001 Management Systems within 7 months of its inception in July 2003.
+http://connive.co.uk encountered an HTTP response status code: 500
+http://mse-uk.com:  01527 582730
+http://ihc-uk.com:  Tel. 01323 449000
+http://wrssolutions.com:  For a free site survey please call 01709 588773 or email - [email protected]
+http://surreysoftplayhire.com:  07592 745532
+http://longhornbeef.co.uk:  01743 351 939
+http://oakleyproperty.com:  T 01273 688882 E Email Us
+http://bakers-solicitors.com:  01457 859 123 (Derbyshire)
+http://sk-design.co.uk:  E: info@sk-design.co.uk T: 01924 835600 M: 07767 774257
+http://kabi.co.uk:  or call us on 01582 483 698 - Trade enquiries welcome
+http://buildersinbristol.net:  01454 317117
+http://firstrecruitmentgroup.com:  01925 907 000
+http://pacheshamgolf.co.uk:  01372 843453
+http://pe-systems.co.uk:  For Inquiries: 01942 260330
+http://hummingbirdeservices.com:  Email: hello@it-hummingbird.co.uk Phone: +44 01636 681939 or 7972 152548
+http://centric-advisors.co.uk encountered an HTTP response status code: 404
+http://hoteliona.co.uk:  Tel: 01803 294918
+http://weddingmakeupandhair.com:  07720 300 062
+http://dizzysquirrel.com:  To find out more about our services and how we can help you please call us on 01722 658100 You can also use our contact form and we’ll get back to you as soon as possible
+http://heckfordnorton.co.uk:  Heckford Norton is authorised and regulated by the Solicitors Regulation Authority. SRA No. 51014
+http://diskingcomputers.com:  01243 978888
+http://indigoone.co.uk:  CALL US NOW 01342 300363
+http://pyedesign.com:  T: 0121 218 3817 M: 07789 691917 E: info@pyedesign.com
+http://monarch-equestrian.co.uk:  01902 605566
+http://nordicwalkingcambridgeshire.com:  Contact Me Any questions? My Amateur Radio Station (Click to go to my Page) Contact us directly: Nordic Walking Cambridgeshire Fenstanton Huntingdon Cambridgeshire, PE28 9JL 01480 878111 info@nordicwalkingcambs.com Or use our contact form . Follow us on: Tweet this page Tweet Go to: Privacy Notice
+http://claspers.co.uk:  Tel: 01992 572 862
+http://ashford.gov.uk:  Urgent Telephone 4pm - 8.30am : 01233 331111
+http://tinsmiths.co.uk encountered an HTTP response status code: 403
+http://avalon-guns.com encountered an HTTP response status code: 401
+http://mirabellabeautysalon.co.uk:  01245 348488
+http://gunrepair.co.uk:  01923 854639
+http://brunsdonfinancial.co.uk:  01452 623623
+http://allianceleisure.co.uk:  Tel: 01454 877558 Email: info@allianceleisure.co.uk
+http://fernwoodcommercials.co.uk:  Tel: 01708 868741 Stuart: 07919 557555 John: 07717 294294 Email: info@fernwoodcommercials.co.uk
+http://lawnturfnottingham.com:  01159 636 752
+http://horsematshop.co.uk:  +44(0)1787 886929 / 01787 880433
+http://paintball-worcester.co.uk:  Venue Ref: 10868-1
+http://quickits.co.uk:  An ISO 9001:2015 & ISO 14001:2015 approved supplier – QK offer state of the art CNC 4 axis machining with 3 dimensional computerised measuring, Welding certified to ASME IX:2019 and BS EN ISO: 9606-1:2017, Laser cutting and forming – all now 
+
+http://worthing-coaches.co.uk:  Contact the team on 03301 736 864
+http://howe-engineering.co.uk:  01763 289521
+http://brizebox.com:  Call our team: 01372 230795
+http://eurotech-computers.com:  01932 260470 sales@eurotech-computers.com Client Support Norway Webshop Menu
+http://optionschelmsford.com:  01245 491434 info@atoptions-hair.com
+http://kingfishershopping.co.uk encountered an HTTP response status code: 404
+http://llanhillethinstitute.com:  01495 400204
+http://signseen.co.uk:  Office Guildford, (01483) 300707
+http://victoriafalls-zambiatravel-safaris.com:  AfricanMecca, Inc 1275 Glenlivet Drive. Suite 100 Allentown, PA 18106 United States of America
+http://77agency.com encountered an HTTP response status code: 403
+http://coxhire.co.uk:  Hire 01384 399 500
+http://thesummitclinic.co.uk:  Mobile: 07775 629 432
+http://williamloughran.co.uk:  call 01772 613114
+http://nationalplastics.co.uk:  01495 246 628
+http://networkscaffolding.co.uk:  01506 371130
+http://jennieden.com:   01423 632995 |  jenni@jennieden.com
+http://sonaspection.com:  T +44 1524 34991 E info@sonaspection.com
+http://dunnsfoodanddrinks.co.uk:  01698 727777
+http://bettymiller.com:  01420 571 350
+http://fanplay4sports.com:  44181 Reviews Rated excellent by our customers
+http://theacupuncturestudio.webs.com:   Lancashire. Cheryl 078573 93560 or Email: [email protected]
+http://inkaesthetics.co.uk encountered an HTTP response status code: 404
+http://reform-gym.co.uk:  01484 485 395
+http://covermagazine.co.uk encountered an HTTP response status code: 403
+http://hyalofemme.co.uk:  Hyalofemme® is exclusively distributed in the UK by Purple Orchid Health Ltd PO box 15079, Dunblane, FK15 5BA, United Kingdom Company Registered No: 09924529 Phone: 0844 415 2420 Email us at info@purpleorchidhealth.co.uk
+http://southamptoncruisecentre.com:  02380 658 386
+http://yorkshireholidaycottages.co.uk:  01947 600700
+http://raxel.co.uk:  To talk to a representative,                         please call 01476 569392
+http://scpersonaltraining.com:  07969 233 525
+http://fleetevolution.com:  21000
+http://innovation-productions.com:  01484 865 111
+http://techmarketview.com:  01252 781545
+http://schoolfurniture.co.uk:  01223 894833
+http://royaloakkeswick.co.uk:  T: 01768 773135
+http://baks.co.uk:  01202 751008
+http://afsuk.com:  01254 958777
+http://webuyyourscrapcars.com:  If you have a scrap car that's taking up drive space, call us today on 07870 558110
+http://intellegentia.co.uk:  Contact Intellegentia Ltd Celixir House, Stratford Business Technology Park Innovation Way, Banbury Road Stratford-upon-Avon Warwickshire CV37 7GZ Call us: 01789 262 656
+http://boxtedhall.co.uk:  Tel:  07989 406 094
+http://peachymondays.com:  © 2021 Peachy Mondays. The Peachy Mondays name, associated trade marks and logos are trade marks of Peachy Mondays. | Privacy & Cookie Policy | Terms & Conditions of Use | GDPR compliant and ISO 27001:2013 certified provider | Independently accredited Information Security Management System (ISMS)
+http://mrchippyyork.co.uk:  01904 672888
+http://sinclairvans.co.uk:  02921 150094
+http://trederwensprings.co.uk:  Tel. 01691 829106 Email. water@trederwensprings.co.uk Web. trederwensprings.co.uk
+http://resinboundsurfacing.co.uk:  Call: 07942 918918
+http://silver-drum.com:  Job Global Investment Group Director – Media Agency InvestmentMedia Agency Up to                                £90000 Central London
+http://elitesportsuk.com:  All other ESC Kingsdown enquires please call 01179 031633 .
+http://zumajay.co.uk:  01288 354956
+http://depinna.com:  When you need your documents notarised, translated and legalised quickly, efficiently and securely, De Pinna is your trusted partner. Our London notary offices have the largest team of multilingual specialist notaries in England and Wales, we have delivered notarial services of the highest standards to over 3,000 clients internationally. We are the first and only firm of notaries in our jurisdiction accredited with ISO 27001, the international standard for information security management.
+http://durhambox.co.uk:  01388 604024
+http://medicaldevice.co.uk:  Tel: Kilmarnock:   01563 860 233
+http://whiteblancmange.com:  Leschaux, Vacheresse, 74360, France
+http://portogramltd.co.uk:  01773 825000
+http://jbrcapital.com:  Lamborghini Aventador 2016 SV Roadster LP 750-4 Semi Automatic Conv... 6.5 | Semi Automatic | 10786 miles 2016 £328,995 View Details
+http://supremesunbeds.co.uk:  Dont Hesitate to call us on 01204 844111 we are open 10am-10pm,
+http://bossdriving.co.uk:  01708 521339
+http://floatglassdesign.co.uk:  To discuss your project or any technical queries, please call us on 01273 622176 or email info@floatglassdesign.co.uk Contact ➣
+http://langham-hotel.com:  01305 782 530 enquiries@langham-hotel.com The Langham 130 The Esplanade Weymouth Dorset DT4 7EX
+http://redkitebaby.co.uk:  Tel : 01454 326 555
+http://cablemonkey.co.uk:  32GB Kit (16GBx2) DDR3 PC3-10600
+http://cloud2.co.uk:  Learn more Or contact us now on 01274 308378
+http://schooladvice.co.uk:  01773 814 400
+http://duckbarn.co.uk:  01483 255977
+http://browntroutinn.com:  Brown Trout Inn 209, Agivey Road Aghadowey near Coleraine Co. Londonderry BT51 4AD Tel: 44 02870 868209 Fax:+ 44 (028) 7086 8878 Email: [email protected]
+http://ct-engineering.co.uk:  01934 419296
+http://marubeni-komatsu.co.uk:  03301 234 441
+http://picturethis-framing.co.uk:  Telephone: 07725 051654‬
+http://worldsaparttravel.co.uk:  Benefit from a Bespoke Worlds Apart experience? Call us on 01242 226 578 to enquire about our services.
+http://thewoolroom.com:  01780 461217
+http://djrmarketing.co.uk:  Call us on 01902 716869
+http://jccars.co.uk:  Justin Cracknell Motor Services - 143 C&D Sprowston road, Norwich NR3 4QQ Tel: Workshop -(01603) 784111 / Mob - 07799 492517
+http://dai-lewis.co.uk:  01559 363401
+http://vizion4it.com:  Call 01908 774 310 Or email support@vizion4it.com
+http://edinburghbiketours.co.uk:  +44 (0) 07355 451 089 / (0) 7754442434
+http://plus15.co.uk:  ISO 9001 ISO 14001
+http://porterfieldbrakes.co.uk:  01291 420 500
+http://cotswoldcottageholidays.co.uk:  Mobile: 07525813669 | General Enquiries 01386 834750 | Email ascott@cotswoldholidays.co.uk Facebook: Cotswold Cottages Independently owned and run, Cotswold Cottage Holidays in Broadway, in The Cotswolds, we can offer these Cotswold Cottages on the "to and from" dates having availability for mid week and weekend breaks in May, October, November and December
+http://intelligent-protection.co.uk:  BS ISO 10002: 2004
+http://surecps-group.com:  SureTwist is an austenitic stainless steel, Grade 1.4301 or 1.4401 – DIN EN 10088 Part 3 (1995), AISI – 304 or 316, reinforcing material that has many unique properties (Or 8.8 High Tensile Steel for specific applications).
+http://presentations.co.uk:  01296 642000
+http://lodestar.org.uk:  01223 813 318 (Mon- Fri 8AM – 6PM) info@lodestar.org.uk LodeStar, The Guildhall, Lode, Cambridge, CB25 9EW
+http://topmeadow.co.uk:  Bookings now being taken……please call 01708 852239 or email us at [email protected]
+http://healys.com encountered an HTTP response status code: 403
+http://houseclearanceteam.co.uk:  Free quotes! Call 01273 964925
+http://bill-medical.co.uk:  01494 416 411
+http://coastscotland.com:  Coast Estate Agents - Irvine, 4-6 Townhead,Irvine,North Ayrshire,A12 0BE Coast Estate Agents - Dalry, 65 New Street, Dalry KA24 5AQ Tel: 01294 313016  | Email: info@coastscotland.com
+http://ericht.co.uk:  07818 671405
+http://snugglebundl.co.uk:  Tel: 07312 179180
+http://porthavallen.co.uk:  01726 812802
+http://vegetarianexpress.co.uk:  E: sales@vegexp.co.uk T: 01923 249714 F: 01923 218710
+http://burrowfieldautos.com:  Contact Burrowfield Autos on 01707 393 017. We offer expert, affordable car repairs, car servicing and MOT testing to the Hatfield, Welwyn and Welwyn Garden City areas.
+http://firstrate.co.uk:  First Rate operates as a Money Service Business ‘MSB’ under supervision of HMRC (MSB licence number: MLR-64068) and is also an Authorised Electronic Money Institution (Reference number: 900412) which is regulated by Financial Conduct Authority (FCA).
+http://exchequersolutions.co.uk:  01244 500 195 Mon - Fri, 8am - 5.30pm
+http://sgrcs.co.uk:  Environment - ISO 14001
+http://polocini.com encountered an HTTP response status code: 404
+http://sw-electrical.co.uk:  01253 795050
+http://cakesuppliers.co.uk:  We Supply, Call Cabico Ltd Today On 0845 604 8416 / 01159 440 057
+http://peasholmecharity.org.uk:  01904 466866
+http://mackay.co.uk:  01223 517000
