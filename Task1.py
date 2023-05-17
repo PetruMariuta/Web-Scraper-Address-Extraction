@@ -52,7 +52,8 @@ async def get_data(session, url):
 
     try:
         async with session.get(url, headers=headers) as resp:
-            #return url
+            
+            
             if 300 > resp.status >= 200 :
 
                 response_text = await resp.text()
@@ -121,9 +122,6 @@ async def make_requests():
                
                       
                     
-       
-
-
 
 #this won't work in python 3.11
 def main():
