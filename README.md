@@ -2,7 +2,7 @@
 
 
 
-![image](https://github.com/PetruMariuta/Address-Extraction/assets/118382269/2e960607-71b2-4417-b39a-fc604e96acf6)
+
 
 
 
