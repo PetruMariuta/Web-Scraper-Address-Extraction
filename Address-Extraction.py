@@ -14,7 +14,7 @@ import json
 
 
 
-data = parquet.read_table(r'C:\path to\.parquet')
+data = parquet.read_table(r'C:\FACULTATE\python\projects\veridion\sites.parquet')
 df = data.to_pandas()
 #print(df)
 #2479  websites?!?! 
@@ -22,9 +22,10 @@ df = data.to_pandas()
 
 
 #code was ran in 3 different instaces due to my network crashing/throttling
-#df_split = df.head(826)
+
 # df_split = df.iloc[827:1653]  
-df_split = df.iloc[1653:2480]
+#df_split = df.iloc[1653:2480]
+df_split = df.head(100)
 
 
 
@@ -37,11 +38,30 @@ def get_urls():
         domain = row['domain']
         #print(domain)
         urls.append("http://" +  domain) #https:// nu merge pentru fiecare site
-        
+           
     
 
 
 start_time = time.time()
+
+
+async def process_url_data(url_data):
+    global precision
+   
+    address_text = url_data.text
+    postcode     =  re.search(r'\b\d{5}\b', address_text)
+    pattern      = r'\b(?:address|contact|other)\b'
+    #matches     = re.findall(pattern, address_text)
+    
+    if postcode:
+
+        element_text = " ".join(url_data.stripped_strings)                            
+        #print(url, element_text)
+        precision    += 1
+        #return f"{url}:  {element_text}"
+        return element_text
+     
+
 
 
 
@@ -52,31 +72,39 @@ async def get_data(session, url):
 
     try:
         async with session.get(url, headers=headers) as resp:
-            
-            
+                        
             if 300 > resp.status >= 200 :
 
-                response_text = await resp.text()
-                soup = BS(response_text, 'html.parser')                                
+                response_text    =  await resp.text()
+                soup             =  BS(response_text, 'html.parser')                                
                 #if url.endswith(".com") == False: ar merge si cu endswith("de" sau "uk") si un re pentru zonele lor
                 
                 address_elements =  soup.find_all(['span', 'p', 'a'])  #html2text si scrapy ar merge chiar mai bn
                 
-
+                
+                    
                 for url_data in address_elements:
-                        
-                        address_text = url_data.text
-                        postcode = re.search(r'\b\d{5}\b', address_text)
-                        pattern = r'\b(?:address|contact|other)\b'
-                        #matches = re.findall(pattern, address_text)
-                        
-                        if postcode:
+                
+                    address_text = url_data.text
+                    postcode     = re.search(r'\b\d{5}\b', address_text)
+                    #gitpattern      = r'\b(?:address|contact|other)\b'
+                    #matches     = re.findall(pattern, address_text)
+                    
+                    if postcode:
 
-                            element_text = " ".join(url_data.stripped_strings)                            
-                            #print(url, element_text)
-                            precision += 1
-                            return f"{url}:  {element_text}"
-                        
+                        element_text = " ".join(url_data.stripped_strings)                            
+                        #print(url, element_text)
+                        precision    += 1
+                        return f"{url}:  {element_text}" 
+                    
+                    '''
+                    result =  await process_url_data(url_data)
+                    
+                    if result:
+                     return (f"{url}:  {result}")
+                     break
+                    '''
+                    
     
             else:
              
@@ -98,7 +126,7 @@ async def get_data(session, url):
 async def make_requests():
 
     total_timeout  =  aiohttp.ClientTimeout(total=None)
-    limits = aiohttp.TCPConnector(limit=None)
+    limits         =  aiohttp.TCPConnector(limit=None)
 
     async with aiohttp.ClientSession(connector=limits, timeout = total_timeout) as session:
         global gathered_data
@@ -112,13 +140,13 @@ async def make_requests():
           
         url_output = await asyncio.gather(*gathered_data)
 
-        with open(r'C:\path to\\answer.txt', "w") as file:
+        #with open(r'C:\path to\\answer.txt', "w") as file:
             
-            for output in url_output:
+        for output in url_output:
                 
                 if output is not None:
-                    #print(output)
-                    file.write(str(output) + '\n', encoding='utf-8')
+                    print(output)
+                    #file.write(str(output) + '\n', encoding='utf-8')
                
                       
                     
@@ -130,7 +158,7 @@ def main():
   loop = asyncio.get_event_loop()
   loop.run_until_complete(make_requests())
   print("--- %s seconds ---" % round(time.time() - start_time))
-  print(f"Precision = {round((precision/826)*100)}%")
+  print(f"Precision = {round((precision/len(urls))*100)}%")
   
 
 
