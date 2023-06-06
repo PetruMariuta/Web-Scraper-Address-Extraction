@@ -7,7 +7,7 @@
 
 
 
-The overall precision of the code was 44%, meaning i could extract data from 1086 urls, the code took aprox  4min to execute with 3 instances of  826 requests at once,
+I extracted data from 1086 (valid) urls, the code took aprox  4min to execute with 3 instances of  826 requests at once,
 my network got throttled so i probably can get better results on a better internet package. 
 ![image](https://github.com/PetruMariuta/Address-Extraction/assets/118382269/5e3d4f8e-08cd-4606-9976-aa00ba3f986a)
 
