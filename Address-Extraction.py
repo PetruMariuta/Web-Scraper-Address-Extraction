@@ -16,8 +16,6 @@ import json
 
 data = parquet.read_table(r'C:\FACULTATE\python\projects\veridion\sites.parquet')
 df = data.to_pandas()
-#print(df)
-#2479  websites?!?! 
 
 
 
@@ -177,4 +175,3 @@ if __name__ == "__main__":
 
 # fac regex dupa postcode i guess
 
-#incerc sa obtin doar datele din html, si dupa fac regex
